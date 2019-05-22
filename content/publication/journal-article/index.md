@@ -5,11 +5,11 @@ authors:
 - Patrick Gerland
 - Alex R. Cook
 - Leontine Alkema
-date: "2019"
+date: "2019-05-07T00:00:00Z"
 doi: "https://doi.org/10.1073/pnas.1812593116"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
