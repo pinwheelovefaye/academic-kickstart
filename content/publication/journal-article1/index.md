@@ -7,7 +7,7 @@ authors:
 - Jon Pedersen
 - Cheryl C. Sawyer
 date: "2015-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/S2214-109X(14)70280-3"
+doi: "10.1016/S2214-109X(14)70280-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
