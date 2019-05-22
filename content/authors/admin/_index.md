@@ -14,8 +14,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: King Abdullah University of Science and Technology
-  url: "https://biostats.kaust.edu.sa/Pages/Home.aspx"
+- name: National University of Singapore
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
