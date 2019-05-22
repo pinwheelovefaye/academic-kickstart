@@ -7,7 +7,7 @@ authors:
 - Lucia Hug
 - Leontine Alkema
 date: "2018-05-01T00:00:00Z"
-doi: "https://doi.org/10.1016/S2214-109X(18)30059-7"
+doi: "10.1016/S2214-109X(18)30059-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
