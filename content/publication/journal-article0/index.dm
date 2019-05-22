@@ -4,7 +4,7 @@ authors:
 - admin
 - Leontine Alkema
 date: "2014-12-23T00:00:00Z"
-doi: "10.1080/2330443X.2013.856148"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
