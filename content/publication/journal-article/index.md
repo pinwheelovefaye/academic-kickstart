@@ -63,7 +63,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 
----
 
 title: "National and regional under-5 mortality rate by economic status for low-income and middle-income countries: a systematic assessment"
 authors:
