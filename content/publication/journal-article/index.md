@@ -1,7 +1,6 @@
 ---
 title: 
 "Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels"
-
 authors:
 - admin
 - Patrick Gerland
