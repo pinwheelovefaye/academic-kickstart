@@ -1,5 +1,5 @@
 ---
-title: "How informative are vital registration data for estimating maternal mortality: A bayesian analysis of WHO adjustment data and parameters"
+title: "How informative are vital registration data for estimating maternal mortality? A bayesian analysis of WHO adjustment data and parameters"
 authors:
 - admin
 - Leontine Alkema
