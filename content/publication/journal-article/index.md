@@ -6,7 +6,7 @@ authors:
 - Alex R. Cook
 - Leontine Alkema
 date: "2019-05-07T00:00:00Z"
-doi: "https://doi.org/10.1073/pnas.1812593116"
+doi: "10.1073/pnas.1812593116"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-01T00:00:00Z"
