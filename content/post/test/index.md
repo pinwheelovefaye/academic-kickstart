@@ -1,41 +1,53 @@
 ---
-title: "Shiny Web App"
+title: "Test"
 authors:
-- Christophe Z Guilmoto
-- Alex R. Cook
 - admin
 tags: []
 categories: []
 date: "2019-05-01T00:00:00Z"
 featured: false
-draft: true
-runtime: shiny
+draft: false
 ---
   
-  ```{r include = FALSE}
-library(shiny)
-library(viridis)
-```
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-You've seen the Maunga Whau volcano displayed in a variety of colors. Now pick your favorite.
+title = "Experience"
+subtitle = ""
 
-```{r echo = FALSE}
-selectInput("colors", "Choose a color palette", 
-  choices = c("viridis", "magma", "inferno", "plasma", "heat",
-  "terrain", "topographic", "cyan/magenta", "rainbow"))
-colorPalette <- reactive({
-  switch(input$colors, 
-         "viridis" = viridis(200),
-         "magma" = viridis(200, option = "A"),
-         "inferno" = viridis(200, option = "B"),
-         "plasma" = viridis(200, option = "C"),
-         "heat" = heat.colors(200),
-         "terrain" = terrain.colors(200),
-         "topographic" = topo.colors(200),
-         "cyan/magenta" = cm.colors(200),
-         "rainbow" = rainbow(200))
-})
-renderPlot({
-  image(volcano, col = colorPalette())
-})
-```
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
