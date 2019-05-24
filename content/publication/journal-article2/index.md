@@ -16,7 +16,7 @@ publishDate: "2019-05-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Lancet Global Health, 6*(5)"
+publication: "*The Lancet Global Health, 6*(5) e535--e547"
 publication_short: ""
 
 
