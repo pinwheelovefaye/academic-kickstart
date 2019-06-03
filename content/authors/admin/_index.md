@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I will join the Biostatistics Group at KAUST as a Postdoctoral Fellow in Aug 2019.
+I will join the Biostatistics Group at KAUST as a Postdoctoral Fellow in July 2019.
 
