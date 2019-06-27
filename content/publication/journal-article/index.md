@@ -34,7 +34,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: files/1908359116.full.paper.pdf
-url_appendix: https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -65,3 +65,4 @@ projects: [sex ratio at birth]
 
 ---
 
+Appendix is available [here](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf).
