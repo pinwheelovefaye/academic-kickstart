@@ -9,7 +9,7 @@ date: "2019-05-07T00:00:00Z"
 doi: "10.1073/pnas.1812593116"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2019-06-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Proceedings of the National Academy of Sciences, 116*(19) 9303--9311"
 publication_short: "PNAS"
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# abstract: The sex ratio at birth (SRB; ratio of male to female live births) imbalance in parts of the world over the past few decades is a direct consequence of sex-selective abortion, driven by the coexistence of son preference, readily available technology of prenatal sex determination, and fertility decline. Estimation of the degree of SRB imbalance is complicated because of unknown SRB reference levels and because of the uncertainty associated with SRB observations. There are needs for reproducible methods to construct SRB estimates with uncertainty, and to assess SRB inflation due to sex-selective abortion. We compile an extensive database from vital registration systems, censuses and surveys with 10,835 observations, and 16,602 country-years of information from 202 countries. We develop Bayesian methods for SRB estimation for all countries from 1950 to 2017. We model the SRB regional and national reference levels, the fluctuation around national reference levels, and the inflation. The estimated regional reference levels range from 1.031 (95% uncertainty interval [1.027; 1.036]) in sub-Saharan Africa to 1.063 [1.055; 1.072] in southeastern Asia, 1.063 [1.054; 1.072] in eastern Asia, and 1.067 [1.058; 1.077] in Oceania. We identify 12 countries with strong statistical evidence of SRB imbalance during 1970–2017, resulting in 45.0 [36.4; 54.8] million missing female births globally. The majority of those missing female births are in China, with 23.1 [16.5; 30.7] million, and in India, with 20.7 [15.5; 26.6] million.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
