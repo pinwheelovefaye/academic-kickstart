@@ -13,7 +13,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Statistics and Public Policy, 1*(1) 6--18"
 publication_short: ""
-featured: true
+featured: false
 # links:
 # - name: ""
 #   url: ""
