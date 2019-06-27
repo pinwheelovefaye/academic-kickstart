@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.pnas.org/content/pnas/116/19/9303.full.pdf
+url_pdf: files/cv_CHAOFENGQING.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
