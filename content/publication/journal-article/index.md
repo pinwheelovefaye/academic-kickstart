@@ -1,5 +1,6 @@
 ---
 title: "Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels"
+subtitle: "This study provides information on sex ratio at birth (SRB) reference levels and SRB imbalance. Using a comprehensive database and a Bayesian estimation model, we estimate that SRB reference levels are significantly different from the commonly assumed historical norm of 1.05 for most regions. We identify 12 countries with strong statistical evidence of SRB imbalance: Albania, Armenia, Azerbaijan, China, Georgia, Hong Kong (SAR of China), India, Republic of Korea, Montenegro, Taiwan (Province of China), Tunisia, and Vietnam."
 authors:
 - admin
 - Patrick Gerland
