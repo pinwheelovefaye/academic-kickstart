@@ -48,8 +48,6 @@ image:
   focal_point: ""
   preview_only: true
 
-![Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.pnas.org/content/116/19/9303))](./fig3.png)
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
