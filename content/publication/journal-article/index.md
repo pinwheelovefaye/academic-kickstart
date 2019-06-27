@@ -67,7 +67,7 @@ projects: [sex ratio at birth]
 Appendix is available [here](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf).
 
 The following data files are available alongside the article online:
-[Dataset S1](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/1/pnas.1812593116.sd01.xlsx): SRB database.
-[Dataset S2](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/2/pnas.1812593116.sd02.xlsx): national SRB annual estimates and 95% uncertainty intervals, 1950--2017.
-[Dataset S3](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/3/pnas.1812593116.sd03.xlsx): global and regional SRB annual estimates and 95% uncertainty intervals, 1950--2017.
-[Dataset S4](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/4/pnas.1812593116.sd04.xlsx): national Annual number of Missing Female Births (AMFB) estimates and 95% uncertainty intervals for the 12 countries with strong statistical evidence of SRB inflation, 1970--2017.
+* [Dataset S1](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/1/pnas.1812593116.sd01.xlsx): SRB database.
+* [Dataset S2](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/2/pnas.1812593116.sd02.xlsx): national SRB annual estimates and 95% uncertainty intervals, 1950--2017.
+* [Dataset S3](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/3/pnas.1812593116.sd03.xlsx): global and regional SRB annual estimates and 95% uncertainty intervals, 1950--2017.
+* [Dataset S4](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/4/pnas.1812593116.sd04.xlsx): national Annual number of Missing Female Births (AMFB) estimates and 95% uncertainty intervals for the 12 countries with strong statistical evidence of SRB inflation, 1970--2017.
