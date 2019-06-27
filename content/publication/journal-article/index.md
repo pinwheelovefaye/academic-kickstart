@@ -1,7 +1,5 @@
 ---
 title: "Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels"
-summary: This study provides information on sex ratio at birth (SRB) reference levels and SRB imbalance. Using a comprehensive database and a Bayesian estimation model, we estimate that SRB reference levels are significantly different from the commonly assumed historical norm of 1.05 for most regions. We identify 12 countries with strong statistical evidence of SRB imbalance: Albania, Armenia, Azerbaijan, China, Georgia, Hong Kong (SAR of China), India, Republic of Korea, Montenegro, Taiwan (Province of China), Tunisia, and Vietnam.
-
 authors:
 - admin
 - Patrick Gerland
@@ -25,6 +23,8 @@ publication_short: ""
 
 abstract: The sex ratio at birth (SRB; ratio of male to female live births) imbalance in parts of the world over the past few decades is a direct consequence of sex-selective abortion, driven by the coexistence of son preference, readily available technology of prenatal sex determination, and fertility decline. Estimation of the degree of SRB imbalance is complicated because of unknown SRB reference levels and because of the uncertainty associated with SRB observations. There are needs for reproducible methods to construct SRB estimates with uncertainty, and to assess SRB inflation due to sex-selective abortion. We compile an extensive database from vital registration systems, censuses and surveys with 10,835 observations, and 16,602 country-years of information from 202 countries. We develop Bayesian methods for SRB estimation for all countries from 1950 to 2017. We model the SRB regional and national reference levels, the fluctuation around national reference levels, and the inflation. The estimated regional reference levels range from 1.031 (95% uncertainty interval [1.027; 1.036]) in sub-Saharan Africa to 1.063 [1.055; 1.072] in southeastern Asia, 1.063 [1.054; 1.072] in eastern Asia, and 1.067 [1.058; 1.077] in Oceania. We identify 12 countries with strong statistical evidence of SRB imbalance during 1970–2017, resulting in 45.0 [36.4; 54.8] million missing female births globally. The majority of those missing female births are in China, with 23.1 [16.5; 30.7] million, and in India, with 20.7 [15.5; 26.6] million.
 
+summary: This study provides information on sex ratio at birth (SRB) reference levels and SRB imbalance. Using a comprehensive database and a Bayesian estimation model, we estimate that SRB reference levels are significantly different from the commonly assumed historical norm of 1.05 for most regions. We identify 12 countries with strong statistical evidence of SRB imbalance: Albania, Armenia, Azerbaijan, China, Georgia, Hong Kong (SAR of China), India, Republic of Korea, Montenegro, Taiwan (Province of China), Tunisia, and Vietnam.
+
 # tags:
 # - Source Themes
 featured: true
@@ -47,6 +47,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: true
+
+![Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.pnas.org/content/116/19/9303))](./fig3.png)
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
