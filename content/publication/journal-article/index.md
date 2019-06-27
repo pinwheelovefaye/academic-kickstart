@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/cv_CHAOFENGQING.pdf
+url_pdf: files/1908359116.full.paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
