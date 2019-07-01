@@ -32,8 +32,6 @@ We believe that the first known computation of missing women is introduced by Dr
 $$\text{missing births}= B_f^E - B_f,$$
 where $B_f^E$ is the expected number of female births, and $B_f$ is the observed number of female births.
 
-![_Hunger and Public Action_ laid the foundation of quantifying female deficits](./jean-sen_book.jpg)
-
 {{< figure src="jean-sen_book.jpg" title="_Hunger and Public Action_ laid the foundation of quantifying female deficits" >}}
 
 
