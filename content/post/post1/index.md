@@ -65,7 +65,9 @@ Hence, 100 births that the 100 families have had are in fact the result of rough
 
 We end up with the same result by using the direct approach to compute the number of missing female births:
 $$B_f^E = 54.5/1.06 = 51.4$$
+
 $$B_f = 100 - 54.5 = 45.5$$
+
 $$B_f^* = 51.4 - 45.5 \approx 6.$$
 
 [^1]: Chao, F., Gerland, P., Cook, A. R., & Alkema, L. (2019). Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels. _Proceedings of the National Academy of Sciences, 116_(19), 9303--9311.
