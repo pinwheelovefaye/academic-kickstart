@@ -10,7 +10,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: "Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))"
-  focal_point: ""
+  focal_point: "Center"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
