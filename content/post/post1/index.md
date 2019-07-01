@@ -64,11 +64,9 @@ $$\theta \cdot \frac{\pi_g}{\pi_b} \cdot 100 \approx 0.064 \times 0.943 \times 1
 Hence, 100 births that the 100 families have had are in fact the result of roughly 106 pregnancies, out of which 6 have been aborted.
 
 We end up with the same result by using the direct approach to compute the number of missing female births:
-$$B_f^E = 54.5/1.06 = 51.4$$
-
-$$B_f = 100 - 54.5 = 45.5$$
-
-$$B_f^* = 51.4 - 45.5 \approx 6.$$
+$$B_f^E &= 54.5/1.06 = 51.4 \\\\\\
+B_f &= 100 - 54.5 = 45.5 \\\\\\
+B_f^* &= 51.4 - 45.5 \approx 6.$$
 
 [^1]: Chao, F., Gerland, P., Cook, A. R., & Alkema, L. (2019). Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels. _Proceedings of the National Academy of Sciences, 116_(19), 9303--9311.
 
