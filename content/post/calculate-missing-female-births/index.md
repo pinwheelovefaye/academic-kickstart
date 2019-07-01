@@ -26,8 +26,8 @@ projects: [sex ratio at birth]
 ---
 
 
-**Our recent [PNAS paper](https://www.fengqingchao.com/files/1908359116.full.paper.pdf)[^1] provides estimates of the number of missing female births around the world due to sex-selective abortion. We explain in greater detail how this number has been calculated in the final version of the paper. Special thanks to Christophe Z. Guilmoto who raised the issue and provided the background of the missing female births calculation method.**
 {{< figure src="fig3.png" title="Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))" >}}
+**Our recent [PNAS paper](https://www.fengqingchao.com/files/1908359116.full.paper.pdf)[^1] provides estimates of the number of missing female births around the world due to sex-selective abortion. We explain in greater detail how this number has been calculated in the final version of the paper. Special thanks to Christophe Z. Guilmoto who raised the issue and provided the background of the missing female births calculation method.**
 
 ## How to calculate female missing births
 We believe that the first known computation of missing women is introduced by Dreze and Sen in 1989 in their book [_Hunger and Public Action_](https://www.oxfordscholarship.com/view/10.1093/0198283652.001.0001/acprof-9780198283652), introducing the basic following equation:
