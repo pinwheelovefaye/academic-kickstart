@@ -4,7 +4,7 @@ tags: [missing female birth]
 categories: [research]
 date: "July 1, 2019"
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
