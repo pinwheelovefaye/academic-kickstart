@@ -34,6 +34,7 @@ where $B_f^E$ is the expected number of female births, and $B_f$ is the observed
 
 ![_Hunger and Public Action_ laid the foundation of quantifying female deficits](./jean-sen_book.jpg)
 
+{{< figure src="jean-sen_book.jpg" title="_Hunger and Public Action_ laid the foundation of quantifying female deficits" >}}
 
 
 In our corrected PNAS paper, we obtain the expected number of female births $B_f^E$ as follows:
