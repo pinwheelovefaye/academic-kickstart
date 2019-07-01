@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Proceedings of the National Academy of Sciences, 116*(19) 9303--9311"
 publication_short: ""
 
-abstract: We identify 12 countries with strong statistical evidence of SRB imbalance during 1970--2017, resulting in 45.0 [36.4; 54.8] million missing female births globally. The majority of those missing female births are in China, with 23.1 [16.5; 30.7] million, and in India, with 20.7 [15.5; 26.6] million.
+abstract: We identify 12 countries with strong statistical evidence of SRB imbalance during 1970--2017, resulting in 45.0 (95% uncertainty interval [36.4; 54.8]) million missing female births globally. The majority of those missing female births are in China, with 23.1 [16.5; 30.7] million, and in India, with 20.7 [15.5; 26.6] million.
 
 # summary: This study provides information on sex ratio at birth (SRB) reference levels and SRB imbalance.
 
