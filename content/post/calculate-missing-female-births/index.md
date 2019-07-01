@@ -1,9 +1,7 @@
 ---
 title: Calculating Missing Female Births
-summary: We estimate the imbalanced sex ratio at birth resulted in around 45.0 million missing female births globally between 1970 and 2017, with the majority of those in China, with 23.1 million missing females, and India with 20.7 million. In this post, we explain in greater detail how this number has been calculated.
-tags:
-- missing female birth
-- sex ratio at birth
+summary: "We estimate the imbalanced sex ratio at birth resulted in around 45.0 million missing female births globally between 1970 and 2017, with the majority of those in China, with 23.1 million missing females, and India with 20.7 million. In this post, we explain in greater detail how this number has been calculated."
+tags: ["missing female birth", "sex ratio at birth"]
 categories: []
 date: "July 1, 2019"
 featured: false
