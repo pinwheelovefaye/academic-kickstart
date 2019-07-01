@@ -10,9 +10,9 @@ draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: "Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))"
-  focal_point: "right"
+# image:
+#  caption: "Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))"
+#  focal_point: "right"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -24,6 +24,7 @@ projects: [sex ratio at birth]
 
 ---
 
+{{< figure src="jean-sen_book.jpg" title="Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))" >}}
 
 **Our recent [PNAS paper](https://www.fengqingchao.com/files/1908359116.full.paper.pdf)[^1] provides estimates of the number of missing female births around the world due to sex-selective abortion. We explain in greater detail how this number has been calculated in the final version of the paper. Special thanks to Christophe Z. Guilmoto who raised the issue and provided the background of the missing female births calculation method.**
 
