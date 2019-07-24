@@ -50,12 +50,15 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "chao.fengqingATnus.edu.sg (replace AT with @)"
+email = "fengqing.chaoATkaust.edu.sa (replace AT with @)"
 phone = "+65 6601 1421"
-address = "1C Cluny Road, House 5, 259599 Singapore"
+address = "4700 King Abdullah University of Science and Technology (KAUST)
+               Thuwal, 
+               23955--6900, 
+               Kingdom of Saudi Arabia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday-Friday 8:30 to 18:00"""
+office_hours = """The weekend in Saudi Arabia is Friday & Saturday"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
