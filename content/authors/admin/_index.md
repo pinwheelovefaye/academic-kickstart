@@ -52,6 +52,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2228-5970
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Fengqing_Chao
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
