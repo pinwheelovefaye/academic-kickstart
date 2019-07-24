@@ -14,8 +14,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
-  url: ""
+- name: KAUST
+  url: "https://www.kaust.edu.sa/en"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -60,7 +60,7 @@ social:
   link: files/cv_CHAOFENGQING.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chao.fengqing@nus.edu.sg"
+email: "fengqing.chao@kaust.edu.sa"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,5 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I will join the Biostatistics Group at KAUST as a Postdoctoral Fellow in July 2019.
+I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://biostats.kaust.edu.sa).
+
 
