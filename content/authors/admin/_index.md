@@ -71,6 +71,6 @@ user_groups:
 
 I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://biostats.kaust.edu.sa).
 
-My family name is Chao and my given name is Fengqing. The cloest English pronouncation of my name is ``Fung-Ching-Chao''.
+My family name is Chao and my given name is Fengqing. The cloest English pronouncation of my name is "Fung-Ching-Chao".
 
 
