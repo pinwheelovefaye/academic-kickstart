@@ -52,10 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "fengqing.chaoATkaust.edu.sa (replace AT with @)"
 phone = "+65 6601 1421"
-address = "4700 King Abdullah University of Science and Technology (KAUST)
-               Thuwal, 
-               23955--6900, 
-               Kingdom of Saudi Arabia"
+address = "4700 King Abdullah University of Science and Technology (KAUST), Thuwal, 23955--6900, Kingdom of Saudi Arabia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """The weekend in Saudi Arabia is Friday & Saturday"""
@@ -90,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "22.309743"
+longitude = "39.104729"
 zoom = 15
 
 ############################
