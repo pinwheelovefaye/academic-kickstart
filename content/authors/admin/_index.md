@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kaust.edu.sa/en"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical demography, global health, Bayesian modeling, and time series analysis.
 
 interests:
 - Statistical Demography
@@ -70,5 +70,7 @@ user_groups:
 ---
 
 I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://biostats.kaust.edu.sa).
+
+My family name is Chao and my given name is Fengqing. The cloest English pronouncation of my name is ``Fung-Ching-Chao''.
 
 
