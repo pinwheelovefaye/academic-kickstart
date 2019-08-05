@@ -1,8 +1,8 @@
 ---
 title: Sex Ratio at Birth
-summary: An example of using the in-built project page.
+summary: We build statistical models to estimate and projection human sex ratio at birth on national and sub-national levels.
 tags:
-- Deep Learning
+- Statistical Demography
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
