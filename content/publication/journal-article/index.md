@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- sex-ratio-at-birth
+- srb
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
