@@ -33,4 +33,11 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**&copy; 2019 Chao et al.**](http://aimsciences.org//article/doi/10.3934/fods.2019008)'
+  focal_point: ""
+  preview_only: false
+
 ---
