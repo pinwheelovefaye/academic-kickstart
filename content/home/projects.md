@@ -25,6 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
   
+ [[content.filter_button]]
+    name = "Statistical Demography"
+    tag = "statistical demography"
     
  
 [design]
