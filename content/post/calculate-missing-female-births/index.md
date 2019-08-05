@@ -20,7 +20,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["sex-ratio-at-birth"]
+projects:
+- sex-ratio-at-birth
 
 ---
 
