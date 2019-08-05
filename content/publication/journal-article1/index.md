@@ -19,6 +19,8 @@ publication_types: ["2"]
 publication: "*The Lancet Global Health, 2*(9) e521--e530"
 publication_short: ""
 
+abstract: Important differences exist between boys and girls with respect to survival up to the age of 5 years. Survival chances tend to improve more rapidly for girls compared with boys as total mortality decreases, with a reversal of this trend at very low infant mortality. For many countries, sex ratios follow this pattern but important exceptions exist. An explanation needs to be sought for selected countries with outlying sex ratios and action should be undertaken if sex discrimination is present.
+
 featured: true
 
 # links:
@@ -32,5 +34,12 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**&copy; 2014 Alkema et al.**](https://www.sciencedirect.com/science/article/pii/S2214109X14702803)'
+  focal_point: ""
+  preview_only: false
 
 ---
