@@ -41,6 +41,6 @@ image:
   preview_only: false
 
 projects:
-- sex-ratio-at-birth
+- srb
 
 ---
