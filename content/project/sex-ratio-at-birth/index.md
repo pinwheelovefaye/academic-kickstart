@@ -1,5 +1,5 @@
 ---
-title: Sex Ratio at Birth
+title: sex ratio at birth
 summary: Human sex ratio at birth: estimation and projection on national and subnational levels
 tags:
 - statistical demography
