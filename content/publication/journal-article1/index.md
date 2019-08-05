@@ -39,7 +39,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**&copy; 2014 Alkema et al.**](https://www.sciencedirect.com/science/article/pii/S2214109X14702803)'
-  focal_point: ""
+  focal_point: "right"
   preview_only: false
 
 ---
