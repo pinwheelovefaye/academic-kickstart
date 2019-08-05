@@ -42,4 +42,7 @@ image:
   focal_point: "right"
   preview_only: false
 
+projects:
+- u5mr
+
 ---
