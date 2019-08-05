@@ -4,7 +4,7 @@ summary: Human sex ratio at birth: estimation and projection on national and sub
 tags:
 - statistical demography
 
-date: "2019-08-05T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
