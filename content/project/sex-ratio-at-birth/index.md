@@ -3,8 +3,6 @@ title: Human sex ratio at birth: estimation and projection on national and subna
 # summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - statistical demography
-- sex ratio at birth
-- missing female births
 
 date: "2019-08-05T00:00:00Z"
 
