@@ -1,6 +1,6 @@
 ---
-title: Human sex ratio at birth: estimation and projection on national and subnational levels
-# summary: An example of linking directly to an external project website using `external_link`.
+title: Sex Ratio at Birth
+summary: Human sex ratio at birth: estimation and projection on national and subnational levels
 tags:
 - statistical demography
 
