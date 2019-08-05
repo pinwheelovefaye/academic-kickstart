@@ -40,6 +40,7 @@ image:
   focal_point: ""
   preview_only: false
 
-projects: ["sex-ratio-at-birth"]
+projects:
+- sex-ratio-at-birth
 
 ---
