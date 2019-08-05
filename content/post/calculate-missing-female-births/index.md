@@ -21,7 +21,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- sex-ratio-at-birth
+- srb
 
 ---
 
