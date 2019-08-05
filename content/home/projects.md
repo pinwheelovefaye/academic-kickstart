@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Sex Ratio at Birth"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "sex ratio at birth"
+    tag = "sex ratio at birth"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Statistical Demography"
+    tag = "Statistical Demography"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Bayesian Modeling"
+    tag = "Bayesian Modeling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
