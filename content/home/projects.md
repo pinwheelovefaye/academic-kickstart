@@ -25,10 +25,7 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Statistical Demography"
-    tag = "statistical demography"
-  
+    
  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
