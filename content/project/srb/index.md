@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-We build statistical models to estimate and projection human sex ratio at birth on national and sub-national levels.
+I build statistical models to estimate and projection human sex ratio at birth on national and sub-national levels.
