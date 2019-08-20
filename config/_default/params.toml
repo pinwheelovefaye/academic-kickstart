@@ -85,8 +85,8 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
-map_api_key = "AIzaSyBCjz5NgiTkwLxYCIdjlrPnT7kso6Qhh7E"
+map = 3
+# map_api_key = "AIzaSyBCjz5NgiTkwLxYCIdjlrPnT7kso6Qhh7E"
 latitude = "22.308804"
 longitude = "39.104841"
 zoom = 16
