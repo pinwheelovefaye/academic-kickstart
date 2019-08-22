@@ -27,7 +27,7 @@ projects:
 
 
 {{< figure src="fig3.png" title="Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))" >}}
-**Our recent [PNAS paper](https://www.fengqingchao.com/files/1908359116.full.paper.pdf)[^1] provides estimates of the number of missing female births around the world due to sex-selective abortion. We explain in greater detail how this number has been calculated in the final version of the paper. Special thanks to Christophe Z. Guilmoto who raised the issue and provided the background of the missing female births calculation method.**
+**Our recent [PNAS paper](https://www.fengqingchao.com/files/1908359116.full.paper.pdf)[^1] provides estimates of the number of missing female births around the world due to sex-selective abortion. We explain in greater detail how this number has been calculated in the final version of the paper. Special thanks to [Christophe Z. Guilmoto](https://www.ceped.org/fr/membres/chercheurs-enseignants-chercheurs/article/guilmoto-christophe-z) who raised the issue and provided the background of the missing female births calculation method.**
 
 
 ## How to calculate female missing births
