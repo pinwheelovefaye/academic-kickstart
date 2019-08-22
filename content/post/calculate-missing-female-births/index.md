@@ -7,6 +7,8 @@ categories: []
 date: "July 1, 2019"
 featured: false
 draft: false
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-07-01T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
