@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://biostats.kaust.edu.sa).
+I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats).
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
 
