@@ -81,4 +81,6 @@ Fengqing is my given name, and the closest English pronunciation is "Fung-Ching"
 
 My CV is available [here](https://www.fengqingchao.com/files/cv_CHAOFENGQING.pdf).
 
+My KAUST profile is [here](https://cemse.kaust.edu.sa/biostats/people/person/fengqing-chao).
+
 
