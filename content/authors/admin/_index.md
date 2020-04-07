@@ -57,7 +57,7 @@ social:
   link: https://www.researchgate.net/profile/Fengqing_Chao
 - icon: arxiv
   icon_pack: ai
-  link: https://arxiv.org/search/?query=Chao%2C+Fengqing&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+  link: https://arxiv.org/a/chao_f_1.html
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
