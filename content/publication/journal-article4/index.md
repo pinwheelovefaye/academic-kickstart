@@ -6,7 +6,7 @@ authors:
 - Samir K.C.
 - Hernando Ombao
 date: "2020-04-05T00:00:00Z"
-doi: "arXiv:2004.02228"
+doi: "arXiv:2004.02228v1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-15T00:00:00Z"
