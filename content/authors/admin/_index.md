@@ -58,6 +58,10 @@ social:
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/chao_f_1.html
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Fengqing-Chao/39666710
+
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
