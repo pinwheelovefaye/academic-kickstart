@@ -31,7 +31,7 @@ education:
   - course: PhD in Biostatistics
     institution: National University of Singapore
     year: 2017
-  - course: BSc in Statistics
+  - course: BSc Hons in Statistics
     institution: National University of Singapore
     year: 2012
 
@@ -61,6 +61,9 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Fengqing-Chao/39666710
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3628429/fengqing-chao/
 
 # - icon: github
 #   icon_pack: fab
