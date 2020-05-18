@@ -91,4 +91,5 @@ Fengqing is my given name, and the closest English pronunciation is "Fung-Ching"
 
 My CV is available [here](https://www.fengqingchao.com/files/cv_CHAOFENGQING.pdf). My KAUST profile is [here](https://cemse.kaust.edu.sa/biostats/people/person/fengqing-chao).
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2228-5970" href="https://orcid.org/0000-0002-2228-5970" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2228-5970</a></div>
 
