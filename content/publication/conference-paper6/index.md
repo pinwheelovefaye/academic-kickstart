@@ -21,7 +21,8 @@ publication_types: ["1"]
 publication: In *Population Association of America Annual Meeting*
 publication_short: In *PAA*
 
-abstract: We implemented Bayesian methods for probabilistic sex ratio at birth (SRB) estimation and projection for all countries based on an extensive database with data from vital registration systems, censuses, and surveys.
+# abstract: We implemented Bayesian methods for probabilistic sex ratio at birth (SRB) estimation and projection for all countries based on an extensive database with data from vital registration systems, censuses, and surveys.We identified countries at risk of SRB inflation due to sex-selective abortion in the past, current, future. We modeled SRB regional biological norms, fluctuation around regional norms, and SRB inflation. For countries at risk of SRB inflation without empirical evidence of past inflation, projections with and without future inflation were constructed. We found that the past or ongoing SRB inflation occurred mostly in Southern Asia and Eastern Asia, resulting in 9.3 (95% uncertainty interval [5.7; 13.7]) and 11.2 [7.2; 15.7] million missing female births during 1970--2015. Under the scenario that all countries at risk of SRB inflation will experience inflation, the estimated number of missing female births globally between 2016--2100 is 8.8 [6.5; 12.7] million, with 94.2% in Sub-Saharan Africa.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
