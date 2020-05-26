@@ -42,7 +42,7 @@ url_source: https://childmortality.org/wp-content/uploads/2019/09/UNIGME-Explana
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**2019 UN IGME**](https://childmortality.org/wp-content/uploads/2019/09/UNIGME-Explanatory-Notes_ENGLISH.pdf)'
+  caption: 'Image credit: [**2019 UN IGME**](https://childmortality.org/)'
   focal_point: ""
   preview_only: false
 
