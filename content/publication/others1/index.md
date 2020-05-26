@@ -62,6 +62,6 @@ projects:
 slides: ""
 ---
 
-I was not directly involded in preparing the report. But one of my research papers resulted as one section in this report by the
+I was not directly involded in preparing the report. But one of my research papers resulted as a section in this report by the
 [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
-This is an example of how my research finds its application in real life and helps with policy planning.
+This is an example of how my research finds its application in real life and helps with policy making and Strategic planning.
