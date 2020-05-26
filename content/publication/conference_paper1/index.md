@@ -26,7 +26,7 @@ rate is greater than one. However, deprivation of girls' access to health care o
 nutrition could lead to distorted ratios of under-five mortality. Monitoring of mortality
 by sex is challenging because of issues with data availability and quality. Moreover,
 the sex ratio is expected to vary with under-five mortality, which makes it challenging
-to define ``expected levels''. We present a Bayesian model to estimate the sex ratio of
+to define "expected levels". We present a Bayesian model to estimate the sex ratio of
 under-five mortality for all countries. In addition, we estimate the relative difference
 between national sex ratios and expected sex ratios based on the global relation between
 mortality and sex ratios. All estimates include an uncertainty assessment to enable
