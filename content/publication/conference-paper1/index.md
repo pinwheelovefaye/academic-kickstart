@@ -32,7 +32,7 @@ featured: false
 links:
 - name: IUSSP conference website
   url: https://iussp.org/en
-url_pdf: https://iussp.org/sites/default/files/event_call_for_papers/CMgender_20130816_busan_0.pdf
+url_pdf: files/conference_paper1.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -63,11 +63,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 This conference paper was an oral presentation on Aug 30th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea.
 
