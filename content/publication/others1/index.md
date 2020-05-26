@@ -43,7 +43,7 @@ url_source: https://childmortality.org/wp-content/uploads/2019/09/UNIGME-Explana
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**2019 UN IGME**](https://childmortality.org/)'
-  focal_point: ""
+  focal_point: left
   preview_only: false
 
 # Associated Projects (optional).
@@ -64,4 +64,4 @@ slides: ""
 
 I was not directly involded in preparing the report. But one of my research papers resulted as a section in this report by the
 [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
-This is an example of how my research finds its application in real life and helps with policy making and Strategic planning.
+This is an example of how my research finds its application in real life and helps with policy making and strategic planning.
