@@ -64,4 +64,4 @@ slides: ""
 
 This is my PhD thesis done at Saw Swee Hock School of Public Health, National University of Singapore, Singapore.
 
-My supervisors are A/P Leontine Alkema[http://people.umass.edu/lalkema] and A/P Alex R. Cook.
+My supervisors are [A/P Leontine Alkema](http://people.umass.edu/lalkema) and [A/P Alex R. Cook](http://blog.nus.edu.sg/alexcook/).
