@@ -64,5 +64,5 @@ projects:
 slides: ""
 ---
 
-This conference paper was an oral presentation on Aug 30th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea.
+I gave an oral presentation for this conference paper on Aug 30th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea.
 
