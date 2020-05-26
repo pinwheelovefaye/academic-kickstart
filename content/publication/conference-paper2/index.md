@@ -1,6 +1,5 @@
 ---
-title: "How Informative are Vital Registration Data for Estimating Maternal Mortality? A Bayesian Analysis of WHO Adjustment Data and
-Parameters"
+title: "How Informative are Vital Registration Data for Estimating Maternal Mortality? A Bayesian Analysis of WHO Adjustment Data and Parameters"
 authors:
 - admin
 - Leontine Alkema
@@ -20,8 +19,7 @@ publication_types: ["1"]
 publication: In *XXVII IUSSP International Population Conference*
 publication_short: In *IUSSP*
 
-abstract: Monitoring maternal mortality is challenging due to fragmented data of varying quality. The maternal mortality estimates published by the WHO in 2012 included data adjustment parameters to account for these data quality issues, but there was a discrepancy between the WHO
-assumption about, and the observed variability in, misclassification errors in vital registration (VR) observations. We developed a Bayesian hierarchical time series model to estimate the extent of VR misclassification errors and to provide a plausible assessment of the uncertainty associated with VR observations for countries with and without external information on VR adjustment parameters. The resulting Bayesian distribution for VR adjustments was more comparable to the observed biases than the WHO expert distribution and the model allows for estimation of VR adjustment values for any period of interest for countries with partial information on such adjustments. We also illustrated that a fully Bayesian modeling approach for estimating maternal mortality can provide more data-driven insights into maternal mortality estimates and data adjustment parameters. However, given the paucity of, and the issues with, maternal mortality data, validation of modeling assumptions and findings is challenging; more data collection and research on measuring maternal mortality and assessing data quality are needed
+abstract: Monitoring maternal mortality is challenging due to fragmented data of varying quality. The maternal mortality estimates published by the WHO in 2012 included data adjustment parameters to account for these data quality issues, but there was a discrepancy between the WHO assumption about, and the observed variability in, misclassification errors in vital registration (VR) observations. We developed a Bayesian hierarchical time series model to estimate the extent of VR misclassification errors and to provide a plausible assessment of the uncertainty associated with VR observations for countries with and without external information on VR adjustment parameters. The resulting Bayesian distribution for VR adjustments was more comparable to the observed biases than the WHO expert distribution and the model allows for estimation of VR adjustment values for any period of interest for countries with partial information on such adjustments. We also illustrated that a fully Bayesian modeling approach for estimating maternal mortality can provide more data-driven insights into maternal mortality estimates and data adjustment parameters. However, given the paucity of, and the issues with, maternal mortality data, validation of modeling assumptions and findings is challenging; more data collection and research on measuring maternal mortality and assessing data quality are needed
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
