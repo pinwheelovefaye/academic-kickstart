@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-My full publication list is [here]({{< ref "/publication/_index.md" >}}) and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
+Discover relevant content by [filtering my publications]({{< ref "/publication/_index.md" >}}) and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
 {{% /alert %}}
