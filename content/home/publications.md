@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Discover relevant content by [filtering my publications]({{< ref "/publication/_index.md" >}}) and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
+Discover relevant content by [filtering my publications]({{< ref "/publication/_index.md" >}}) (journal articles, preprints, conference papers, books and thesis.) and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
 {{% /alert %}}
