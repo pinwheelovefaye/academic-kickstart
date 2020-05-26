@@ -7,7 +7,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-My full publication list is [here]({{< ref "/publication/_index.md" >}}).
+My full publication list is [here]({{< ref "/publication/_index.md" >}}) and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
 {{% /alert %}}
