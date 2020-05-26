@@ -48,8 +48,8 @@ projects:
 
 ---
 
-This appendix formed part of the original submission and has been peer reviewed.
-The journal post it as supplied by the authors.
+This appendix formed part of the original submission and has been peer reviewed. The journal post it as supplied by the authors.
+
 Supplement to: Alkema L, Chao F, You D, Pedersen J, Sawyer CC. National, regional, and
 global sex ratios of infant, child, and under-5 mortality and identification of countries
 with outlying ratios: a systematic assessment. Lancet Glob Health 2014; 2: e521--30.
