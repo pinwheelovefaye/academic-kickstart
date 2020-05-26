@@ -17,10 +17,10 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *XPopulation Association of America Annual Meeting*
+publication: In *Population Association of America Annual Meeting*
 publication_short: In *PAA*
 
-# abstract: Under natural circumstances, the ratio of the male to female under-five mortality rate is greater than one. However, deprivation of girls' access to health care or proper nutrition could lead to distorted ratios of under-five mortality. Monitoring of mortality by sex is challenging because of issues with data availability and quality. Moreover, the sex ratio is expected to vary with under-five mortality, which makes it challenging to define "expected levels". We present a Bayesian model to estimate the sex ratio of under-five mortality for all countries. In addition, we estimate the relative difference between national sex ratios and expected sex ratios based on the global relation between mortality and sex ratios. All estimates include an uncertainty assessment to enable assessments of whether differences between countries or within countries over time are significant or highly uncertain.
+abstract: Monitoring of sex-specific mortality up to age five for all countries is challenging because of issues with data availability and quality. Moreover, sex ratios are expected to vary with under-five mortality, which makes it challenging to define "expected levels" and pinpoint to countries with outlying levels or trends, e.g. because of deprivation of girls' access to health care or proper nutrition. We developed a Bayesian model to estimate sex ratios for infant, child and under-five mortality for all countries. In addition, we estimated the relative difference between national sex ratios and expected sex ratios based on the global relation between mortality and sex ratios. Based on these relative differences, we identified countries with outlying sex ratios and assessed excess female mortality.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
