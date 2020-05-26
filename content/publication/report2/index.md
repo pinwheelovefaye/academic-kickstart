@@ -16,7 +16,7 @@ publishDate: "2019-05-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Lancet Global Health, 6*(5) e535--e547"
+# publication: "*The Lancet Global Health, 6*(5) e535--e547"
 publication_short: ""
 
 # abstract: For all low-income and middle-income countries (excluding China) combined, the absolute disparities in under-5 mortality rate between the poorest and richest households have narrowed significantly since 1990, whereas the relative differences have remained stable. To further narrow the rich-and-poor gap in under-5 mortality rate on the relative scale, targeted interventions that focus on the poorest populations are needed.
