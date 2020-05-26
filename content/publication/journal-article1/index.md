@@ -26,13 +26,13 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.thelancet.com/action/showPdf?pii=S2214-109X%2814%2970280-3
+url_pdf: files/journal-article1.pdf
 url_code: ''
 url_dataset: https://www.thelancet.com/cms/10.1016/S2214-109X(14)70280-3/attachment/f8888b19-ce87-4f68-8eba-8ccb90976b8f/mmc1.pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://www.thelancet.com/action/showPdf?pii=S2214-109X%2814%2970280-3
 url_video: ''
 
 # Featured image
