@@ -3,7 +3,7 @@ title: "A Systematic Assessment of National, Regional and Global Levels and Tren
 authors:
 - admin
 - Patrick Gerland
--Alex R. Cook
+- Alex R. Cook
 - Leontine Alkema
 date: "2018-04-06T00:00:00Z"
 doi: ""
