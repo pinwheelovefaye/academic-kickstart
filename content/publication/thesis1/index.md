@@ -28,8 +28,8 @@ abstract: It is crucial to monitor global health indicators accurately in order 
 featured: false
 
 links:
-- name: PAA conference website
-  url: http://www.populationassociation.org/
+# - name: PAA conference website
+#  url: http://www.populationassociation.org/
 url_pdf: files/thesis1.pdf
 # url_code: '#'
 # url_dataset: '#'
