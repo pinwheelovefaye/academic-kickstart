@@ -17,6 +17,7 @@ publication: "*Foundations of Data Science, 1*(2) 177--196"
 publication_short: ""
 
 abstract: The sex ratio at birth (SRB) has risen in India and reaches well beyond the levels under normal circumstances since the 1970s. The lasting imbalanced SRB has resulted in much more males than females in India. A population with severely distorted sex ratio is more likely to have prolonged struggle for stability and sustainability. It is crucial to estimate SRB and its imbalance for India on state level and assess the uncertainty around estimates. We develop a Bayesian model to estimate SRB in India from 1990 to 2016 for 29 states and union territories. Our analyses are based on a comprehensive database on state-level SRB with data from the sample registration system, census and Demographic and Health Surveys. The SRB varies greatly across Indian states and union territories in 2016: ranging from 1.026 (95% uncertainty interval [0.971; 1.087]) in Mizoram to 1.181 [1.143; 1.128] in Haryana. We identify 18 states and union territories with imbalanced SRB during 1990--2016, resulting in 14.9 [13.2; 16.5] million of missing female births in India. Uttar Pradesh has the largest share of the missing female births among all states and union territories, taking up to 32.8% [29.5%; 36.3%] of the total number.
+
 # tags:
 # - Source Themes
 featured: false
