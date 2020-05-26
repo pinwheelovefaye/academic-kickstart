@@ -33,13 +33,13 @@ links:
 - name: IUSSP conference website
   url: https://iussp.org/en
 url_pdf: https://iussp.org/sites/default/files/event_call_for_papers/CMgender_20130816_busan_0.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+url_source: https://iussp.org/sites/default/files/event_call_for_papers/CMgender_20130816_busan_0.pdf
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
