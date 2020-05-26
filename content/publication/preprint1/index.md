@@ -27,13 +27,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/2004.02228.pdf
+url_pdf: files/preprint1.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://arxiv.org/abs/2004.02228
 url_video: ''
 
 # Featured image
