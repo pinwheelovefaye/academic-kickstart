@@ -38,7 +38,7 @@ url_pdf: files/conference_paper3.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://paa2014.princeton.edu/papers/143020
+url_source: https://paa2014.princeton.edu/abstracts/143020
 # url_video: '#'
 
 # Featured image
