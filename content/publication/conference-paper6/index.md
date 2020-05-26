@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: In *Population Association of America Annual Meeting*
 publication_short: In *PAA*
 
-abstract: We implemented Bayesian methods for probabilistic sex ratio at birth (SRB) estimation and projection for all countries based on an extensive database with data from vital registration systems, censuses, and surveys. We identified countries at risk of SRB inflation due to sex-selective abortion in the past, current, future. We modeled SRB regional biological norms, fluctuation around regional norms, and SRB inflation. For countries at risk of SRB inflation without empirical evidence of past inflation, projections with and without future inflation were constructed. 
+abstract: We implemented Bayesian methods for probabilistic sex ratio at birth (SRB) estimation and projection for all countries based on an extensive database with data from vital registration systems, censuses, and surveys. We identified countries at risk of SRB inflation due to sex-selective abortion in the past, current, future. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
