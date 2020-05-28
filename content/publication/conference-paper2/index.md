@@ -63,4 +63,4 @@ projects:
 slides: ""
 ---
 
-I gave a [poster presentation](https://www.fengqingchao.com/files/poster1.pdf) for this conference paper on Aug 27th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea. The presentatin won XXVII IUSSP International Population Conference Best Poster Award.
+I gave a [poster presentation](https://www.fengqingchao.com/files/poster1.pdf) for this conference paper on Aug 27th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea. The presentatin won [XXVII IUSSP International Population Conference Best Poster Award](https://iussp.org/en/busan-conference-report).
