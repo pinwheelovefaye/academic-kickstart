@@ -34,7 +34,7 @@ links:
 url_pdf: files/conference_paper2.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: files/poster1.pdf
 # url_project: ''
 # url_slides: ''
 url_source: https://iussp.org/sites/default/files/event_call_for_papers/Busan20130814_submitted.pdf
