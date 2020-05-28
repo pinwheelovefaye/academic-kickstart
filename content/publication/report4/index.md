@@ -5,7 +5,7 @@ authors:
 - Yvonne Arivalgan
 - admin
 date: "2018-01-18T00:00:00Z"
-doi: "10.1142/11155"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: PAA conference website
 #  url: http://www.populationassociation.org/
-# url_pdf: files/report4.pdf
+url_pdf: files/report4.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
