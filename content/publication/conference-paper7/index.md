@@ -41,7 +41,7 @@ url_pdf: files/conference_paper7.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://higherlogicdownload.s3-external-1.amazonaws.com/POPULATIONASSOCIATION/FengqingChao_EstimateU5MRbyResidence_PAApaper.pdf?AWSAccessKeyId=AKIAVRDO7IEREB57R7MT&Expires=1590492965&Signature=Xuy5kC3MvzDv9dIdWuW%2Ft6UcLhE%3D
+# url_source: https://higherlogicdownload.s3-external-1.amazonaws.com/POPULATIONASSOCIATION/FengqingChao_EstimateU5MRbyResidence_PAApaper.pdf?AWSAccessKeyId=AKIAVRDO7IEREB57R7MT&Expires=1590492965&Signature=Xuy5kC3MvzDv9dIdWuW%2Ft6UcLhE%3D
 # url_video: '#'
 
 # Featured image
