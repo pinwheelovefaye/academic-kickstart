@@ -34,7 +34,7 @@ links:
 url_pdf: files/conference_paper2.pdf
 # url_code: '#'
 # url_dataset: '#'
-url_poster: files/poster1.pdf
+url_poster: https://doi.org/10.6084/m9.figshare.12400973
 # url_project: ''
 # url_slides: ''
 url_source: https://iussp.org/sites/default/files/event_call_for_papers/Busan20130814_submitted.pdf
@@ -64,3 +64,7 @@ slides: ""
 ---
 
 I gave a [poster presentation](https://www.fengqingchao.com/files/poster1.pdf) for this conference paper on Aug 27th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea. The presentatin won [XXVII IUSSP International Population Conference Best Poster Award](https://iussp.org/en/busan-conference-report).
+
+Please cite the linked poster as:
+
+Chao, Fengqing; Alkema, Leontine (2013): How Informative are Vital Registration Data for Estimating Maternal Mortality? A Bayesian Analysis of WHO Adjustment Data and Parameters (poster for IUSSP 2013). figshare. Poster. https://doi.org/10.6084/m9.figshare.12400973.v1
