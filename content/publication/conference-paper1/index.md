@@ -5,7 +5,7 @@ authors:
 - admin
 - Cheryl C. Sawyer
 date: "2013-08-16T00:00:00Z"
-doi: ""
+doi: "10.6084/m9.figshare.12401468"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 links:
 - name: IUSSP conference website
   url: https://iussp.org/en
-url_pdf: files/conference_paper1.pdf
+url_pdf: https://doi.org/10.6084/m9.figshare.12401468
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
