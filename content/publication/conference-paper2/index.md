@@ -67,4 +67,4 @@ I gave a [poster presentation](https://www.fengqingchao.com/files/poster1.pdf) f
 
 Please cite the linked poster as:
 
-Chao, Fengqing; Alkema, Leontine (2013): How Informative are Vital Registration Data for Estimating Maternal Mortality? A Bayesian Analysis of WHO Adjustment Data and Parameters (poster for IUSSP 2013). figshare. Poster. https://doi.org/10.6084/m9.figshare.12400973.v1
+Chao, Fengqing; Alkema, Leontine (2013): How Informative are Vital Registration Data for Estimating Maternal Mortality? A Bayesian Analysis of WHO Adjustment Data and Parameters (poster for IUSSP 2013). figshare. Poster. https://doi.org/10.6084/m9.figshare.12400973
