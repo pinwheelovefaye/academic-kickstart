@@ -36,7 +36,7 @@ links:
 url_pdf: files/conference_paper5.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: https://doi.org/10.6084/m9.figshare.12401297
 # url_project: ''
 # url_slides: ''
 url_source: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/11833
@@ -66,3 +66,7 @@ slides: ""
 ---
 
 I gave a poster presentation for this conference paper on Apr 27th, 2017, in the 2017 Population Association of America Annual Meeting, Chicago, IL, USA.
+
+Please cite the linked poster as:
+
+Chao, Fengqing, Danzhen You, Jon Pedersen, Lucia Hug, and Leontine Alkema. 2017. "Estimation of Under-5 Mortality by Wealth Quintile (poster for PAA 2017)". figshare. doi:[10.6084/m9.figshare.12401297](https://doi.org/10.6084/m9.figshare.12401297).
