@@ -63,7 +63,7 @@ projects:
 slides: ""
 ---
 
-I gave a [poster presentation](https://doi.org/10.6084/m9.figshare.12400973) for this conference paper on Aug 27th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea. The presentatin won [XXVII IUSSP International Population Conference Best Poster Award](https://iussp.org/en/busan-conference-report).
+I gave a [poster presentation](https://doi.org/10.6084/m9.figshare.12400973) for this conference paper on Aug 27th, 2013, in the XXVII IUSSP International Population Conference, Busan, Republic of Korea. The presentation won [XXVII IUSSP International Population Conference Best Poster Award](https://iussp.org/en/busan-conference-report).
 
 Please cite the linked poster as:
 
