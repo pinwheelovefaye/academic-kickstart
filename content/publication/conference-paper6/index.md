@@ -6,7 +6,7 @@ authors:
 - Alex R. Cook
 - Leontine Alkema
 date: "2018-04-06T00:00:00Z"
-doi: ""
+doi: "10.6084/m9.figshare.12403061"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
@@ -34,7 +34,7 @@ featured: false
 links:
 - name: PAA conference website
   url: http://www.populationassociation.org/
-url_pdf: files/conference_paper6.pdf
+url_pdf: https://doi.org/10.6084/m9.figshare.12403061
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
