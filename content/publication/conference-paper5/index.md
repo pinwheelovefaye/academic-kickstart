@@ -65,7 +65,7 @@ projects:
 slides: ""
 ---
 
-I gave a poster presentation for this conference paper on Apr 27th, 2017, in the 2017 Population Association of America Annual Meeting, Chicago, IL, USA.
+I gave a [poster presentation](https://doi.org/10.6084/m9.figshare.12401297) for this conference paper on Apr 27th, 2017, in the 2017 Population Association of America Annual Meeting, Chicago, IL, USA.
 
 Please cite the linked poster as:
 
