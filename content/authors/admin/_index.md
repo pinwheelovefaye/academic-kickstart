@@ -64,6 +64,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3628429/fengqing-chao/
+- icon: figshare
+  icon_pack: ai
+  link: https://figshare.com/authors/Fengqing_Chao/8914205
 
 # - icon: github
 #   icon_pack: fab
