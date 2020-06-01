@@ -40,7 +40,7 @@ url_pdf: https://doi.org/10.6084/m9.figshare.12403088
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+url_slides: https://doi.org/10.6084/m9.figshare.12403931
 # url_source: https://higherlogicdownload.s3-external-1.amazonaws.com/POPULATIONASSOCIATION/FengqingChao_EstimateU5MRbyResidence_PAApaper.pdf?AWSAccessKeyId=AKIAVRDO7IEREB57R7MT&Expires=1590492965&Signature=Xuy5kC3MvzDv9dIdWuW%2Ft6UcLhE%3D
 # url_video: '#'
 
@@ -68,3 +68,7 @@ slides: ""
 ---
 
 I gave an oral presentation for this conference paper on Apr 23rd, 2020, in the 2020 Population Association of America Annual Meeting (virtual due to COVID19), Washington, DC, USA.
+
+Please cite the linked slides as:
+
+Chao, Fengqing. 2020. "Under-5 Mortality Rate Estimation by Place of Residence (slides for PAA 2020)". figshare. doi:10.6084/m9.figshare.12403931.
