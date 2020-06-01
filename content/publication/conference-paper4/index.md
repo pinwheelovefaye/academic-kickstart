@@ -37,7 +37,7 @@ url_pdf: https://doi.org/10.6084/m9.figshare.12401654
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+url_slides: https://doi.org/10.6084/m9.figshare.12403457
 url_source: https://paa.confex.com/paa/2016/meetingapp.cgi/Paper/7070
 # url_video: '#'
 
@@ -65,3 +65,7 @@ slides: ""
 ---
 
 I gave an oral presentation for this conference paper on Mar 31st, 2016, in the 2016 Population Association of America Annual Meeting, Washington, DC, USA.
+
+Please cite the linked slides as:
+
+Chao, Fengqing, Leontine Alkema, and Patrick Gerland. 2016. “A Systematic Assessment of National, Regional, and Global Levels and Trends in the Sex Ratio at Birth and Identification of Countries with Outlying Levels (slides for PAA 2016)”. figshare. doi:[https://doi.org/10.6084/m9.figshare.12403457](10.6084/m9.figshare.12403457).
