@@ -68,4 +68,4 @@ I gave an oral presentation for this conference paper on Mar 31st, 2016, in the 
 
 Please cite the linked slides as:
 
-Chao, Fengqing, Leontine Alkema, and Patrick Gerland. 2016. "A Systematic Assessment of National, Regional, and Global Levels and Trends in the Sex Ratio at Birth and Identification of Countries with Outlying Levels (slides for PAA 2016)". figshare. doi:[https://doi.org/10.6084/m9.figshare.12403457](10.6084/m9.figshare.12403457).
+Chao, Fengqing, Leontine Alkema, and Patrick Gerland. 2016. "A Systematic Assessment of National, Regional, and Global Levels and Trends in the Sex Ratio at Birth and Identification of Countries with Outlying Levels (slides for PAA 2016)". figshare. doi:[10.6084/m9.figshare.12403457](https://doi.org/10.6084/m9.figshare.12403457).
