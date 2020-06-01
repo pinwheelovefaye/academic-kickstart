@@ -39,7 +39,7 @@ url_pdf: https://doi.org/10.6084/m9.figshare.12403061
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+url_slides: https://doi.org/10.6084/m9.figshare.12403532
 url_source: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/20250
 # url_video: '#'
 
@@ -67,3 +67,7 @@ slides: ""
 ---
 
 I gave an oral presentation for this conference paper on Apr 26th, 2018, in the 2018 Population Association of America Annual Meeting, Denver, CO, USA.
+
+Please cite the linked slides as:
+
+Chao, Fengqing, Patrick Gerland, Alex R. Cook, and Leontine Alkema. 2018. "A Systematic Assessment of National, Regional, and Global Levels and Trends in the Sex Ratio at Birth and Scenario-based Projections (slide for PAA 2018)". figshare. doi:[10.6084/m9.figshare.12403532](https://doi.org/10.6084/m9.figshare.12403532).
