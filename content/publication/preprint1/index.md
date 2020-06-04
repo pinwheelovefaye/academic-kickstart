@@ -20,8 +20,13 @@ publication_short: ""
 abstract: The sex ratio at birth (SRB) in India has been reported imbalanced since the 1970s. Previous studies have shown a great variation in the SRB across geographic locations in India till 2016. As one of the most populous countries and in view of its great regional heterogeneity, it is crucial to produce probabilistic projections for the SRB in India at state level for the purpose of population projection and policy planning. In this paper, we implement a Bayesian hierarchical time series model to project SRB in India by state. We generate SRB probabilistic projections from 2017 to 2030 for 29 States and Union Territories (UTs) in India, and present results in 21 States/UTs with data from the Sample Registration System. We project that the largest contribution to female births deficits is in Uttar Pradesh, with cumulative number of missing female births projected to be 2.0 (95% credible interval (1.9; 2.2)) million from 2017 to 2030. The total female birth deficits during 2017--2030 for the whole India is projected to be 6.8 (6.6; 7.0) million.
 
 
-# tags:
-# - Source Themes
+tags:
+- sex ratio at birth
+- probabilistic projection
+- Bayesian hierarchical model
+- sex-selective abortion
+- India
+- missing female births
 featured: false
 
 # links:
