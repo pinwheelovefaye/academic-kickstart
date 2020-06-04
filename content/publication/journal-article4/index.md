@@ -25,8 +25,12 @@ abstract: We identify 12 countries with strong statistical evidence of SRB imbal
 
 # summary: This study provides information on sex ratio at birth (SRB) reference levels and SRB imbalance.
 
-# tags:
-# - Source Themes
+tags:
+- sex ratio at birth
+- sex-selective abortion
+- Bayesian hierarchical model
+- son preference
+- missing female births
 featured: true
 
 # links:
