@@ -25,7 +25,6 @@ tags:
 - estimation
 - Amartya Sen
 - prenatal sex selection
-
 featured: false
 
 # links:
