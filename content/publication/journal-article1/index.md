@@ -21,6 +21,14 @@ publication_short: ""
 
 abstract: Important differences exist between boys and girls with respect to survival up to the age of 5 years. Survival chances tend to improve more rapidly for girls compared with boys as total mortality decreases, with a reversal of this trend at very low infant mortality. For many countries, sex ratios follow this pattern but important exceptions exist. An explanation needs to be sought for selected countries with outlying sex ratios and action should be undertaken if sex discrimination is present.
 
+tags:
+- child mortality
+- gender discrimination
+- global health
+- Bayesian hierarchical model
+- B-splines
+- data quality analysis
+- time series models
 featured: true
 
 # links:
