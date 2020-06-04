@@ -2,7 +2,12 @@
 title: Calculating Missing Female Births
 summary: "We explain in greater detail how missing female births has been calculated in our recent study."
 
-tags: ["missing female birth", "sex ratio at birth"]
+tags: 
+- missing female births
+- sex ratio at birth
+- estimation
+- Amartya Sen
+- prenation sex selection
 categories: []
 date: "July 1, 2019"
 featured: false
