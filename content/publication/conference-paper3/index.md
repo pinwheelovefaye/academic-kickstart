@@ -25,14 +25,21 @@ abstract: Monitoring of sex-specific mortality up to age five for all countries 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- PAA
+- child mortality
+- gender discrimination
+- global health
+- Bayesian hierarchical model
+- B-splines
+- data quality analysis
+- time series models
 featured: false
 
 links:
 - name: PAA conference website
   url: https://www.populationassociation.org/
-url_pdf: https://doi.org/10.6084/m9.figshare.12401627
+url_pdf: files/conference_paper3_AlkemaL_PAA2014.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
