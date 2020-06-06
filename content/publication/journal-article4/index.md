@@ -70,7 +70,9 @@ projects:
 
 ---
 
-Appendix is available [here](https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf).
+Please cite the linked dataset/web appendix as:
+
+Chao, Fengqing, Patrick Gerland, Alex R. Cook, and Leontine Alkema. 2019. "Web Appendix Systematic Assessment of the Sex Ratio at Birth for All Countries and Estimation of National Imbalances and Regional Reference Levels". figshare. doi:[10.6084/m9.figshare.12442373](https://doi.org/10.6084/m9.figshare.12442373).
 
 The following data files are available alongside the article online:
 
