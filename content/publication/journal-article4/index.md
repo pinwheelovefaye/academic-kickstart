@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article4.pdf
+url_pdf: files/journal-article4_2019_ChaoF_Systematic-assessment-of-the-sex-ratio-at-birth-for-all-countries-and-estimation-of-national-imbalances-and-regional-reference-levels.pdf
 url_code: ''
 url_dataset: "https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf"
 url_poster: ''
