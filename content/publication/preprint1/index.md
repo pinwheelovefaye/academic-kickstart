@@ -27,18 +27,19 @@ tags:
 - sex-selective abortion
 - India
 - missing female births
+- subnational modeling
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: files/preprint1.pdf
+- name: "arXiv"
+url: "https://arxiv.org/abs/2004.02228"
+url_pdf: files/preprint1_2020_ChaoF_Probabilistic-Projection-of-the-Sex-Ratio-at-Birth-and-Missing-Female-Births-by-State-and-Union-Territory-in-India.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://arxiv.org/abs/2004.02228
+url_source: ''
 url_video: ''
 
 # Featured image
