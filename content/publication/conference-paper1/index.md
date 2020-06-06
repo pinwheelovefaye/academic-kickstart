@@ -25,14 +25,20 @@ abstract: Under natural circumstances, the ratio of the male to female under-fiv
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- child mortality
+- gender discrimination
+- global health
+- Bayesian hierarchical model
+- B-splines
+- data quality analysis
+- time series models
 featured: false
 
 links:
 - name: IUSSP conference website
   url: https://iussp.org/en
-url_pdf: https://doi.org/10.6084/m9.figshare.12401468
+url_pdf: files/conference_paper1_AlkemaL_IUSSP2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
