@@ -24,14 +24,22 @@ abstract: Monitoring maternal mortality is challenging due to fragmented data of
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- IUSSP
+- autoregressive time series model
+- data quality issues
+- global health
+- Millennium Development Goal 5
+- multilevel model
+- Proportion of maternal deaths among all deaths to women of reproductive ages (PM)
+- maternal mortality
+- vital registration
 featured: false
 
 links:
 - name: IUSSP conference website
   url: https://iussp.org/en
-url_pdf: https://doi.org/10.6084/m9.figshare.12401495
+url_pdf: files/conference_paper2_ChaoF_IUSSP2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 url_poster: https://doi.org/10.6084/m9.figshare.12400973
