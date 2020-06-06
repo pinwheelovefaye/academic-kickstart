@@ -54,3 +54,7 @@ projects:
 - u5mr
 
 ---
+
+Please cite the linked dataset/web appendix as:
+
+Alkema, Leontine, Fengqing Chao, Danzhen You, Jon Pedersen, and Cheryl Chriss Sawyer. 2014. "Supplementary Appendix: National, Regional, and Global Sex Ratios of Infant, Child, and Under-5 Mortality and Identification of Countries with Outlying Ratios: A Systematic Assessment". figshare. doi:[10.6084/m9.figshare.12442175](https://doi.org/10.6084/m9.figshare.12442175).
