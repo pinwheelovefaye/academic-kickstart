@@ -1,5 +1,5 @@
 ---
-title: "Estimation method for child mortality Used in: Level and Trends of Child mortality -- Report 2013"
+title: "Estimation method for child mortality Used in: Level and Trends of Child mortality - Report 2013"
 authors:
 - United Nations Inter-agency Group for Child Mortality Estimation (UN IGME)
 date: "2013-09-01T00:00:00Z"
