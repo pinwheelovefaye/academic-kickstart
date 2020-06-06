@@ -26,6 +26,7 @@ abstract: Under natural circumstances, the ratio of the male to female under-fiv
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+- IUSSP
 - child mortality
 - gender discrimination
 - global health
