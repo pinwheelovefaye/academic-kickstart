@@ -27,14 +27,20 @@ abstract: We implemented Bayesian methods for probabilistic sex ratio at birth (
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- PAA
+- sex ratio at birth
+- sex-selective abortion
+- Bayesian hierarchical model
+- son preference
+- missing female births
+- global health
 featured: false
 
 links:
 - name: PAA conference website
   url: http://www.populationassociation.org/
-url_pdf: https://doi.org/10.6084/m9.figshare.12403061
+url_pdf: files/conference_paper6_ChaoF_PAA2018.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
