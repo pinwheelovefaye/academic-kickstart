@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article6.pdf
+url_pdf: files/journal-article6_2020_GuilmotoC_On-the-estimation-of-female-births-missing-due-to-prenatal-sex-selection.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
