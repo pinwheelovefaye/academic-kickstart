@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article1.pdf
+url_pdf: files/journal-article1_2014_AlkemaL_Sex-ratios-of-infant-child-and-under-5-mortality-and-identification-of-countries-with-outlying-ratios.pdf
 url_code: ''
 url_dataset: https://www.thelancet.com/cms/10.1016/S2214-109X(14)70280-3/attachment/f8888b19-ce87-4f68-8eba-8ccb90976b8f/mmc1.pdf
 url_poster: ''
