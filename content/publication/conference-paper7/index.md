@@ -28,14 +28,19 @@ abstract: The progress in reducing the under-5 mortality rate (U5MR) since 1990 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- PAA
+- child mortality
+- Urban-rural disparity
+- global health
+- Bayesian hierarchical model
+- time series models
 featured: false
 
 links:
 - name: PAA conference website
   url: http://www.populationassociation.org/
-url_pdf: https://doi.org/10.6084/m9.figshare.12403088
+url_pdf: files/conference_paper7_ChaoF_PAA2020.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
