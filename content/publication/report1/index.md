@@ -7,7 +7,7 @@ authors:
 - Jon Pedersen
 - Cheryl C. Sawyer
 date: "2014-09-01T00:00:00Z"
-doi: ""
+doi: "10.6084/m9.figshare.12442175"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
@@ -27,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report1.pdf
+url_pdf: files/report1_2014_AlkemaL_Appendix_Sex-ratios-of-infant-child-and-under-5-mortality-and-identification-of-countries-with-outlying-ratios.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
