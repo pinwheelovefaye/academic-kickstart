@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: PAA conference website
 #  url: http://www.populationassociation.org/
-url_pdf: files/thesis1.pdf
+url_pdf: files/thesis1_2017_ChaoF_Bayesian-Methods-for-Estimating-Global-Health-Indicators.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -62,6 +62,6 @@ image:
 slides: ""
 ---
 
-This is my PhD thesis done at Saw Swee Hock School of Public Health, National University of Singapore, Singapore.
+This is my PhD thesis done at [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/), National University of Singapore, Singapore.
 
 My supervisors are [A/P Leontine Alkema](http://people.umass.edu/lalkema) and [A/P Alex R. Cook](http://blog.nus.edu.sg/alexcook/).
