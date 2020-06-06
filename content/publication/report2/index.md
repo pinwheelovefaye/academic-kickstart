@@ -7,7 +7,7 @@ authors:
 - Lucia Hug
 - Leontine Alkema
 date: "2018-05-01T00:00:00Z"
-doi: ""
+doi: "10.6084/m9.figshare.12442244"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
@@ -21,14 +21,20 @@ publication_short: ""
 
 # abstract: For all low-income and middle-income countries (excluding China) combined, the absolute disparities in under-5 mortality rate between the poorest and richest households have narrowed significantly since 1990, whereas the relative differences have remained stable. To further narrow the rich-and-poor gap in under-5 mortality rate on the relative scale, targeted interventions that focus on the poorest populations are needed.
 
-# tags:
-# - Source Themes
+tags:
+- child mortality
+- wealth quintile
+- household wealth status
+- global health
+- Bayesian hierarchical model
+- time series models
+- web appendix
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report2.pdf
+url_pdf: files/report2_2018_ChaoF_Appendix_Under-5-mortality-rate-by-economic-status-for-low-income-and-middle-income-countries.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
