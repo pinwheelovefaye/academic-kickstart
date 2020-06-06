@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Publications"
-  url = "{{< ref "/publication/_index.md" >}}"
+  url = "https://www.fengqingchao.com/publication/"
   weight = 35
 
 [[main]]
