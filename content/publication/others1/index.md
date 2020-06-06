@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: PAA conference website
 #  url: http://www.populationassociation.org/
-url_pdf: files/others1.pdf
+url_pdf: files/others1_2019_UNIGME_Explanatory-Notes-Child-mortality-trend-series-to-2018.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -62,6 +62,6 @@ projects:
 slides: ""
 ---
 
-I was not directly involded in preparing the report. But one of my research papers resulted as a section in this report by the
+I was not directly involded in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimates by sex_) in this report by the
 [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
 This is an example of how my research finds its application in real life and helps with policy making and strategic planning.
