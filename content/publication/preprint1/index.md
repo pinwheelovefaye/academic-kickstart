@@ -30,7 +30,9 @@ tags:
 - subnational modeling
 featured: false
 
-# links:
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2004.02228
 url_pdf: files/preprint1_2020_ChaoF_Probabilistic-Projection-of-the-Sex-Ratio-at-Birth-and-Missing-Female-Births-by-State-and-Union-Territory-in-India.pdf
 url_code: ''
 url_dataset: ''
