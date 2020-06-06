@@ -1,5 +1,5 @@
 ---
-title: "Levels and trends in the sex ratio at birth and missing female births for 29 states and union territories in India 1990–2016: A Bayesian modeling study"
+title: "Levels and trends in the sex ratio at birth and missing female births for 29 states and union territories in India 1990-2016: A Bayesian modeling study"
 authors:
 - admin
 - Ajit Kumar Yadav
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article5.pdf
+url_pdf: files/journal-article5_2019_ChaoF_Sex-ratio-at-birth-and-missing-female-births-for-29-states-and-union-territories-in-India-1990-2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
