@@ -6,7 +6,7 @@ authors:
 - Alex R. Cook
 - Leontine Alkema
 date: "2019-05-07T00:00:00Z"
-doi: ""
+doi: "10.6084/m9.figshare.12442373"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-27T00:00:00Z"
@@ -21,14 +21,20 @@ publication_types: ["4"]
 # publication: "*Proceedings of the National Academy of Sciences, 116*(19) 9303--9311"
 publication_short: ""
 
-# tags:
-# - Source Themes
+tags:
+- sex ratio at birth
+- sex-selective abortion
+- Bayesian hierarchical model
+- son preference
+- missing female births
+- global health
+- web appendix
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report3.pdf
+url_pdf: files/report3_2019_ChaoF_Appendix_Systematic-assessment-of-the-sex-ratio-at-birth-for-all-countries-and-estimation-of-national-imbalances-and-regional-reference-levels.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
