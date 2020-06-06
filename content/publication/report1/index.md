@@ -22,6 +22,15 @@ publication_types: ["4"]
 # publication: "*The Lancet Global Health, 2*(9) e521--e530"
 publication_short: ""
 
+tags:
+- child mortality
+- gender discrimination
+- global health
+- Bayesian hierarchical model
+- B-splines
+- data quality analysis
+- time series models
+- web appendix
 featured: false
 
 # links:
