@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article3.pdf
+url_pdf: files/journal-article3_2018_ChaoF_Under-5-mortality-rate-by-economic-status-for-low-income-and-middle-income-countries.pdf
 url_code: ''
 url_dataset: "https://www.thelancet.com/cms/10.1016/S2214-109X(18)30059-7/attachment/32b25f53-b21b-4cf0-9e99-7da1cf01c728/mmc1.pdf"
 url_poster: ''
