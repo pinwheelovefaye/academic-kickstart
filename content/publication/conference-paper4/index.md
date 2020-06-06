@@ -25,14 +25,20 @@ abstract: Under normal circumstances, the sex ratio at birth (SRB) has been repo
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- PAA
+- sex ratio at birth
+- sex-selective abortion
+- Bayesian hierarchical model
+- son preference
+- missing female births
+- global health
 featured: false
 
 links:
 - name: PAA conference website
   url: http://www.populationassociation.org/
-url_pdf: https://doi.org/10.6084/m9.figshare.12401654
+url_pdf: files/conference_paper4_ChaoF_PAA2016.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
