@@ -25,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article7.pdf
+url_pdf: files/journal-article7_2019_BrownP_Large-expert-curated-database-for-benchmarking-document-similarity-detection-in-biomedical-literature-search.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
