@@ -31,7 +31,7 @@ abstract: The progress in reducing the under-5 mortality rate (U5MR) since 1990 
 tags:
 - PAA
 - child mortality
-- Urban-rural disparity
+- urban-rural disparity
 - global health
 - Bayesian hierarchical model
 - time series models
