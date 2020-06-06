@@ -37,7 +37,7 @@ image:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/journal-article2.pdf
+url_pdf: files/journal-article2_2014_ChaoF_A-Bayesian-analysis-of-WHO-adjustment-data-and-parameters.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
