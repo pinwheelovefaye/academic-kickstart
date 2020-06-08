@@ -2,7 +2,7 @@
 title: "Singapore Perspectives 2018: Together"
 authors:
 - Christopher Gee
-- Yvonne Arivalgan
+- Yvonne Arivalagan
 - admin
 date: "2018-10-22T00:00:00Z"
 doi: "10.1142/11155"
