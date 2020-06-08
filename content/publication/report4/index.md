@@ -2,7 +2,7 @@
 title: "Singapore Perspectives 2018 Conference Background Paper"
 authors:
 - Christopher Gee
-- Yvonne Arivalgan
+- Yvonne Arivalagan
 - admin
 date: "2018-01-18T00:00:00Z"
 doi: ""
