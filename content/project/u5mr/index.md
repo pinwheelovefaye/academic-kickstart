@@ -1,6 +1,6 @@
 ---
-title: Under-5 Mortality Rate Disparity
-summary: I build statistical models to estimate the disparities in the under-5 mortaity rate.
+title: Child and adolescence mortality rates disparity estimation
+summary: I build statistical models to estimate the disparities in child and adolescence mortality rates across countries over time.
 tags:
 - Statistical Demography
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-I build statistical models to estimate the disparities in the under-5 mortaity rate across countries over time.
+I build statistical models to estimate the disparities in child and adolescence mortality rates across countries over time.
