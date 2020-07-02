@@ -1,6 +1,6 @@
 ---
-title: Sex Ratio at Birth
-summary: I build statistical models to estimate and projection human sex ratio at birth on national and sub-national levels.
+title: Sex ratio at birth estimation and projection
+summary: I build statistical models to estimate and project human sex ratio at birth on national and sub-national levels.
 tags:
 - Statistical Demography
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-I build statistical models to estimate and projection human sex ratio at birth on national and sub-national levels.
+I build statistical models to estimate and project human sex ratio at birth on national and sub-national levels.
