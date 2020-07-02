@@ -67,4 +67,4 @@ projects:
 
 ---
 
-This web appendix is for the preprint [Levels and trends in the sex ratio at birth in seven provinces of Nepal between 1980 and 2016 with probabilistic projections to 2050: a Bayesian modeling approach](https://www.fengqingchao.com/publication/preprint2/).
+This web appendix is for the preprint [Levels and trends in the sex ratio at birth in seven provinces of Nepal between 1980 and 2016 with probabilistic projections to 2050: a Bayesian modeling approach](https://www.fengqingchao.com/publication/preprint3/).
