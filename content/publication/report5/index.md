@@ -23,10 +23,11 @@ publication_short: ""
 tags:
 - sex ratio at birth
 - sex-selective abortion
-- Bayesian hierarchical model
 - son preference
-- missing female births
-- global health
+- Bayesian hierarchical model
+- Nepal
+- probabilistic projection
+- subnational estimation
 - web appendix
 featured: false
 
