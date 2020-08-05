@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: In *Joint Statistical Meeting*
 # publication_short: In *JSM*
 
-abstract: We describe a method for probabilistic scenario-based projection of the sex ratio at birth (SRB; ratio of male to female live births) for all countries, with a focus on SRB imbalance due to sex-selective abortion till 2100. The SRB projections are based on a comprehensive national SRB database. We develop Bayesian hierarchical methods to model SRB national reference levels, fluctuation around reference level, probability of SRB imbalance and its process. We project SRB under 3 scenarios: (S1) given current level, SRB in all countries converge back to their national baseline values and assuming no SRB inflation in the future; (S2) all countries at risk of SRB inflation will experience similar existing transitions in other countries. The probability of having inflation is based on the information from countries with strong evidence of SRB inflation at lower fertility; (S3) all countries at risk of SRB inflation will experience similar transition with 100% inflation probability. The cumulative number of missing female births is projected to be around 8 (95% uncertainty interval [2; 20]) million for S1, 17 [8; 39] million for S2, 24 [15; 47] million for S3.
+abstract: We describe a method for probabilistic scenario-based projection of the sex ratio at birth (SRB; ratio of male to female live births) for all countries, with a focus on SRB imbalance due to sex-selective abortion till 2100.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: JSM website
- url: https://ww2.amstat.org/meetings/jsm/2020/
+  url: https://ww2.amstat.org/meetings/jsm/2020/
 url_pdf: files/slides27_ChaoF_JSM2020.pdf
 # url_code: '#'
 # url_dataset: '#'
