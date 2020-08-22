@@ -13,7 +13,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
