@@ -53,8 +53,6 @@ image:
 projects:
 - srb
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0236673" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 ---
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0236673" data-hide-no-mentions="true" class="altmetric-embed"></div>
