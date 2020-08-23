@@ -29,7 +29,7 @@ tags:
 - India
 - missing female births
 - subnational modeling
-featured: false
+featured: true
 
 # links:
 # - name: arXiv
