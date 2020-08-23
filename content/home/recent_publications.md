@@ -27,7 +27,7 @@ subtitle = "full publication list [here](https://www.fengqingchao.com/publicatio
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "2"
     exclude_featured = false
   
 [design]
@@ -36,7 +36,7 @@ subtitle = "full publication list [here](https://www.fengqingchao.com/publicatio
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,5 +67,5 @@ subtitle = "full publication list [here](https://www.fengqingchao.com/publicatio
 +++
 
 {{% alert note %}}
-Discover more by [filtering my publications]({{< ref "/publication/_index.md" >}}) (journal articles, preprints, conference papers, reports, books and thesis) and check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
+Discover more by [filtering my publications]({{< ref "/publication/_index.md" >}}) (journal articles, preprints, conference papers, reports, books, and thesis) and check my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=r8PB6loAAAAJ).
 {{% /alert %}}
