@@ -21,18 +21,18 @@ organizations:
 bio: My research interests include statistical demography, global health, Bayesian modeling, and time series analysis.
 
 interests:
-- Statistical Demography
-- Global Health
-- Bayesian Modeling
-- Time Series Analysis
+- 人口统计
+- 全球健康
+- 贝叶斯模型
+- 时间序列分析
 
 education:
   courses:
-  - course: PhD in Biostatistics
-    institution: National University of Singapore
+  - course: 生物统计学博士
+    institution: 新加坡国立大学
     year: 2017
-  - course: BSc Hons in Statistics
-    institution: National University of Singapore
+  - course: 统计学荣誉学士
+    institution: 新加坡国立大学
     year: 2012
 
 # Social/Academic Networking
