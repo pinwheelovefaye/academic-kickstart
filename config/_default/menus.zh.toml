@@ -24,7 +24,7 @@
   weight = 35
 
 [[main]]
-  name = "帖子"
+  name = "帖文"
   url = "post"
   weight = 40
 
