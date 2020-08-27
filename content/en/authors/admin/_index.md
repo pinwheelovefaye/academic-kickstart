@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical demography, global health, Bayesian modeling, and time series analysis.
 
-interests:
+research interests:
 - Statistical Demography
 - Global Health
 - Bayesian Modeling
@@ -88,7 +88,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats).
+I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats). I have been collaborating with UNICEF since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the UN Population Division since 2013 on estimating and projection sex ratio at birth using Bayesian approaches.
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
 
