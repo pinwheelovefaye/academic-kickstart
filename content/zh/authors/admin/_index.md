@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kaust.edu.sa/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究领域包括人口统计，全球健康，贝叶斯模型，时间序列分析。
+bio: 我的研究领域包括:人口统计，全球健康，贝叶斯模型，时间序列分析。
 
 interests:
 - 人口统计
