@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Fengqing Chao
+name: 巢凤清
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: 博士后
 
 # Organizations/Affiliations
 organizations:
-- name: KAUST
+- name: 沙特阿卜杜拉国王科技大学
   url: "https://www.kaust.edu.sa/en"
 
 # Short bio (displayed in user profile at end of posts)
