@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical demography, global health, Bayesian modeling, and time series analysis.
 
-research interests:
+interests:
 - Statistical Demography
 - Global Health
 - Bayesian Modeling
