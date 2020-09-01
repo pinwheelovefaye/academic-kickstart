@@ -32,7 +32,7 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2007.00437
-url_pdf: files/preprint3_2020_ChaoF_Nepal-Sex-Ratio-at-Birth-by-Province-1980-to-2050.pdf
+url_pdf: files/preprint3_v2_2020_ChaoF_Nepal-Sex-Ratio-at-Birth-by-Province-1980-to-2050.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,4 +53,4 @@ projects:
 
 ---
 
-This preprint is under review.
+This preprint is under review. This is the 2nd version. The first version can be found on [arXiv](https://arxiv.org/abs/2007.00437).
