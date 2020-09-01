@@ -92,6 +92,8 @@ user_groups:
 
 简历在 [这里](https://www.fengqingchao.com/files/cv_CHAOFENGQING.pdf)。大学网站关于我的信息在 [这里](https://cemse.kaust.edu.sa/biostats/people/person/fengqing-chao)。
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+{{% alert note %}}
+完整信息在 [英文版网页](https://www.fengqingchao.com/)。
+{{% /alert %}}
 
 
