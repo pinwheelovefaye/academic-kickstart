@@ -53,4 +53,4 @@ projects:
 
 ---
 
-This preprint is under review. This is the 2nd version. The first version can be found on [arXiv](https://arxiv.org/abs/2007.00437).
+This preprint is under review. This is the 2nd version. The 1st version can be found on [arXiv](https://arxiv.org/abs/2007.00437).
