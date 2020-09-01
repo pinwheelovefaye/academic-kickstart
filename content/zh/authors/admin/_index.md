@@ -88,8 +88,10 @@ user_groups:
 - Visitors
 ---
 
-现为 [沙特阿卜杜拉国王科技大学](https://www.kaust.edu.sa/en) [生物统计研究组](https://cemse.kaust.edu.sa/biostats)的博士后。我与联合国儿童基金会从2012年开始合作的研究项目包括儿童和青少年死亡率因性别，经济水平，城乡差异的统计建模。我也和联合国经济和社会事务部人口司从2013年起合作开发出生性别比的统计模型。
+现为 [沙特阿卜杜拉国王科技大学](https://www.kaust.edu.sa/en) [生物统计研究组](https://cemse.kaust.edu.sa/biostats)的博士后。我与联合国儿童基金会从2012年开始合作。我和联合国经济和社会事务部人口司从2013年起合作。
 
 简历在 [这里](https://www.fengqingchao.com/files/cv_CHAOFENGQING.pdf)。大学网站关于我的信息在 [这里](https://cemse.kaust.edu.sa/biostats/people/person/fengqing-chao)。
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
 

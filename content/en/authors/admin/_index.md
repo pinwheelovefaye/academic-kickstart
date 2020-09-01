@@ -88,7 +88,11 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats). I have been collaborating with UNICEF since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the UN Population Division since 2013 on estimating and projection sex ratio at birth using Bayesian approaches.
+I am a Postdoctoral Fellow in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats). I am a statistician with research interest in demography and global health.
+
+I have been collaborating with UNICEF, specifically the [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/), since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the UN Population Division since 2013 on estimating and projection sex ratio at birth using Bayesian approaches.
+
+I have published in journals such as *Lancet Global Health*, *Proceedings of the National Academy of Sciences*, and *PLoS ONE*.
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
 
