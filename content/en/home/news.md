@@ -14,8 +14,8 @@ padding = ["20px", "0", "20px", "0"]
 +++
 
 ### Tweets by [@FengqingChao](https://twitter.com/FengqingChao)
-{{< tweet 1296348181438107648 >}}
 {{< tweet 1300710001930100736 >}}
+{{< tweet 1296348181438107648 >}}
 
 ### Other activities
 Coming soon!
