@@ -49,3 +49,5 @@ projects:
 - srb
 
 ---
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.3934/fods.2019008" data-hide-no-mentions="true" class="altmetric-embed"></div>

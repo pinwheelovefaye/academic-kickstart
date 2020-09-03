@@ -46,4 +46,6 @@ image:
 
 ---
 
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1093/database/baz085" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 I am one of the RELISH consortium members.

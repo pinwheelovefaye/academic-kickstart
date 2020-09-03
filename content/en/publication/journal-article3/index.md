@@ -54,6 +54,8 @@ projects:
 - u5mr
 
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/S2214-109X(18)30059-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 Please cite the linked dataset/web appendix as:
 
 Chao, Fengqing, Danzhen You, Jon Pedersen, Lucia Hug, and Leontine Alkema. 2018. “Web Appendix National and Regional Under-5 Mortality Rate by Economic Status for Low-income and Middle-income Countries: A Systematic Assessment”. figshare. doi:[10.6084/m9.figshare.12442244](https://doi.org/10.6084/m9.figshare.12442244).

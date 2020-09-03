@@ -69,6 +69,7 @@ projects:
 # slides: example
 
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1073/pnas.1812593116" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Please cite the linked dataset/web appendix as:
 
