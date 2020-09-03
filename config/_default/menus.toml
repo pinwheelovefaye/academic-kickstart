@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Featured work"
-  url = "#featured"
+  url = "#featured-publications"
   weight = 30
 
 [[main]]

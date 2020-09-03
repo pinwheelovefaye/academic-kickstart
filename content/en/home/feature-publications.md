@@ -1,40 +1,20 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
-
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
 
-[content]
-# Page type to display. E.g. post, talk, or publication.
-page_type = "publication"
-  
-# Choose how much pages you would like to display (0 = all pages)
-count = 0
-
-# Page order. Descending (desc) or ascending (asc) date.
-order = "desc"
-
-# Filter posts by a taxonomy term.
-[content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-  
 [design]
-# Toggle between the various page layout types.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation (publication only)
-view = 2
-  
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]  
+
 [design.background]
 # Apply a background color, gradient, or image.
 #   Uncomment (by removing `#`) an option to apply it.
@@ -62,3 +42,6 @@ css_style = ""
 # CSS class.
 css_class = ""
 +++
+
+**Chao, Fengqing**, Christophe Z. Guilmoto, Samir KC, and Hernando Ombao. ["Probabilistic projection of the sex ratio at birth and missing female births by State and Union Territory in India."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236673) *PLoS ONE* 15, no. 8 (2020): e0236673.<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0236673" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
