@@ -15,7 +15,7 @@
 
 [[main]]
   name = "代表作品"
-  url = "#featured"
+  url = "#featured-publications"
   weight = 30
 
 [[main]]
