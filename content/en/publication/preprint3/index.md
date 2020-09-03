@@ -52,5 +52,6 @@ projects:
 - srb
 
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-arxiv-id="2007.00437" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 This preprint is under review. This is the 2nd version. The 1st version can be found on [arXiv](https://arxiv.org/abs/2007.00437).

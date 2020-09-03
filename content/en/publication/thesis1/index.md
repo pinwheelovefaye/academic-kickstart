@@ -61,6 +61,7 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-handle="10635/137381" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 This is my PhD thesis done at [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/), National University of Singapore, Singapore.
 

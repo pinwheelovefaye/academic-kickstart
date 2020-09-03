@@ -63,4 +63,5 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-isbn="978-981-3276-27-7"" data-hide-no-mentions="true" class="altmetric-embed"></div>
 

@@ -53,5 +53,6 @@ projects:
 - srb
 
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-arxiv-id="2006.07101" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 This preprint is under review.
