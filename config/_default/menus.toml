@@ -47,8 +47,3 @@
   url = "https://twitter.com/FengqingChao"
   weight = 20
 
-[[main_right]]
-  name = "<i class=\"ai google-scholar\" style=\"color: #4169e1; font-size: 1rem; line-height: 1.25\"></i>"
-  post = ""
-  url = "https://scholar.google.com/citations?user=r8PB6loAAAAJ&hl=en"
-  weight = 10
