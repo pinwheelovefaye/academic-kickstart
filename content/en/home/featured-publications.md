@@ -43,5 +43,6 @@ css_style = ""
 css_class = ""
 +++
 
-**Chao, Fengqing**, Christophe Z. Guilmoto, Samir KC, and Hernando Ombao. ["Probabilistic projection of the sex ratio at birth and missing female births by State and Union Territory in India."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236673) *PLoS ONE* 15, no. 8 (2020): e0236673.<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0236673" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Chao, Fengqing**, Christophe Z. Guilmoto, Samir KC, and Hernando Ombao. ["Probabilistic projection of the sex ratio at birth and missing female births by State and Union Territory in India."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236673) *PLoS ONE* 15, no. 8 (2020): e0236673.
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0236673" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
