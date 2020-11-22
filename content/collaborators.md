@@ -23,5 +23,5 @@ padding = ["20px", "0", "20px", "0"]
 | Lucia Hug | UNICEF | Division of Data, Research, and Policy |
 | [Samir KC](http://www.wittgensteincentre.org/en/staff/member/kc.htm) | Shanghai University; International Institute for Applied Systems Analysis (IIASA) | Asian Demographic Research Institute (ADRI); Wittgenstein Centre for Demography |
 | [Hernando Ombao](https://cemse.kaust.edu.sa/biostats/people/person/hernando-ombao) | KAUST | Statistics Program |
-| Jon Pedersen | FAFO | |
-| [Danzhen You](https://www.linkedin.com/in/dzyou) | UNICEF | Division of Data, Research, and Policy |
+| [Jon Pedersen](https://fafo.no/index.php/ansatte?controller=renderlayout&task=show&item_id=4722&layout=utskrift&tmpl=component) | FAFO | |
+| [Danzhen You](https://scholar.google.com/citations?user=9-z_XD4AAAAJ&hl=en) | UNICEF | Division of Data, Research, and Policy |

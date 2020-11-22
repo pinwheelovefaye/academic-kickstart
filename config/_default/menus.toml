@@ -34,6 +34,11 @@
   weight = 40
 
 [[main]]
+  name = "Media"
+  url = "media"
+  weight = 41
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
