@@ -12,6 +12,7 @@ subtitle = ""
 padding = ["20px", "0", "20px", "0"]
 
 +++
+
 _Media coverage are listed in alphabetical order of news outlets._
 
 ## **2020**
