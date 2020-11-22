@@ -12,6 +12,7 @@ subtitle = ""
 padding = ["20px", "0", "20px", "0"]
 
 +++
+_Media coverage are listed in alphabetical order of news outlets._
 
 ## **2020**
 [2051.FR](https://www.2051.fr/actualite/actualite/des-millions-de-naissances-feminines-disparues-prevues-en-inde-au-cours-de-la-prochaine-decennie/). Aug 19, 2020. ``Des millions de naissances féminines disparues prévues en Inde au cours de la prochaine décennie''

@@ -12,6 +12,7 @@ subtitle = ""
 padding = ["20px", "0", "20px", "0"]
 
 +++
+_Collaborators are listed in alphabetical order of last names._
 
 
 | Name              | Institution | Department/Divison |
