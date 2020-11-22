@@ -24,6 +24,11 @@
   weight = 35
 
 [[main]]
+  name = "Collaborators"
+  url = "collaborators"
+  weight = 36
+
+[[main]]
   name = "Posts"
   url = "post"
   weight = 40
