@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
- - name: Yale NUS website
-  url: https://www.yale-nus.edu.sg/
+# - name: Yale NUS website
+#  url: https://www.yale-nus.edu.sg/
 url_pdf: files/slides29_ChaoF_YaleNUS2020_web.pdf
 # url_code: '#'
 # url_dataset: '#'
