@@ -11,16 +11,17 @@
 
 <style>
 #mapid {
-    width: 960px;
-    height:500px;
+    width: 600px;
 }
 </style>
 
 </head>
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <script>
 
-    var mymap = L.map('mapid').setView([51.505, -0.09], 1.5);
+    var mymap = L.map('mapid').setView([40, 0], 1.5);
     
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -33,5 +34,4 @@
    
 </script>
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
