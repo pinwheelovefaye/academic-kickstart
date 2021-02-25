@@ -23,13 +23,13 @@
 <script>
 
     var map = L.map('map',{
-    center: [43.64701, -79.39425],
-    zoom: 1
+    center: [42.389145, -72.524773],
+    zoom: 3
     });
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-   L.marker([42.389145, -72.524773], {icon: greenIcon}).addTo(map).bindPopup("<b>Leontine Alkema</b><br>UMass, Amherst");
+   L.marker([42.389145, -72.524773]).addTo(map).bindPopup("<b>Leontine Alkema</b><br>UMass, Amherst");
 </script>
