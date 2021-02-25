@@ -24,12 +24,15 @@
 
     var map = L.map('map',{
     center: [42.389145, -72.524773],
-    zoom: 3
+    zoom: 2
     });
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-   L.marker([42.389145, -72.524773]).addTo(map).bindPopup("<b>Leontine Alkema</b><br>UMass, Amherst");
+   L.marker([42.38925592733096, -72.52525571127184]).addTo(map).bindPopup("<b>Leontine Alkema</b><br>UMass, Amherst");
+   L.marker([1.2962888904294114, 103.77765106482704]).addTo(map).bindPopup("<b>Alex R. Cook</b><br>NUS");
+   L.marker([40.750907988361654, -73.96960264798585]).addTo(map).bindPopup("<b>Patrick Gerland</b><br>UN");
+   L.marker([48.85596833844135, 2.3316521007257864]).addTo(map).bindPopup("<b>Christophe Z. Guilmot</b><br>Université de Paris");
 </script>
