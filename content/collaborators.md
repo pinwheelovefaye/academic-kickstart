@@ -29,4 +29,4 @@ _Collaborators are listed in alphabetical order of last names._
 | [Jon Pedersen](https://fafo.no/index.php/ansatte?controller=renderlayout&task=show&item_id=4722&layout=utskrift&tmpl=component) | FAFO | |
 | [Danzhen You](https://scholar.google.com/citations?user=9-z_XD4AAAAJ&hl=en) | UNICEF | Division of Data, Research, and Policy |
 
-<div id="map"></div>
+<div id="mapid"></div>
