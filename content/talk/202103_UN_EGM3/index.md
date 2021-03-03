@@ -17,7 +17,7 @@ abstract: "This session will hear experts discuss the indirect demographic metho
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-08T12:00:00Z"
-date_end: "2030-06-01T13:00:00Z"
+# date_end: "2021-03-08T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,6 +33,9 @@ image:
   caption: 'Image credit: [**UN ESCAP**](https://www.unescap.org/)'
   focal_point: Right
 
+links:
+- name: Register
+  url: https://urldefense.com/v3/__https://forms.office.com/Pages/ResponsePage.aspx?id=2zWeD09UYE-9zF6kFubccCbMXLpK9rROj_qowHBOnQ9UQlc5RUdSMklMUlkxUzFBTjVOTjdZTUw0VS4u__;!!Nmw4Hv0!nqixNYRKoPW7ATkXTouCWvnzo2j9tbAxNEhkItFiY5_DbGqU13ymnvDvWAPqAR9G8GLDZ2Wf$
 url_code: ""
 url_pdf: ""
 url_slides: ""
