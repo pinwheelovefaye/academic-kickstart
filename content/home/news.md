@@ -18,4 +18,4 @@ padding = ["20px", "0", "20px", "0"]
 {{< tweet 1300710001930100736 >}}
 
 ### Other activities
-Recent & Upcoming Talks at here.
+Recent & Upcoming Talks at [here](https://www.fengqingchao.com/talk/).
