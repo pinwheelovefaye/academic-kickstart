@@ -17,7 +17,7 @@ publishDate: "2019-06-27T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-# publication: ""
+ publication: "*figshare*"
 publication_short: ""
 
 tags:
@@ -31,9 +31,9 @@ tags:
 - web appendix
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: figshare
+  url: https://figshare.com/articles/dataset/S1_Appendix_Sex_ratio_at_birth_in_Vietnam_among_six_subnational_regions_during_1990_2050_estimation_and_probabilistic_projection_using_a_Bayesian_hierarchical_time_series_model/14152979
 url_pdf: files/report8_2021_ChaoF_Appendix_Vietnam-Sex-Ratio-at-Birth-Subnational-Estimation-and-Projection.pdf.pdf
 url_code: ''
 url_dataset: ''
