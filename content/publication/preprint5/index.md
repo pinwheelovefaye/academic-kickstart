@@ -26,7 +26,7 @@ tags:
 - time series models
 - sex-selective abortion
 - Vietnam
--subnational modeling
+- subnational modeling
 featured: false
 
 links:
