@@ -19,7 +19,7 @@ publishDate: "2019-06-27T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-# publication: ""
+publication: "*figshare*"
 publication_short: ""
 
 tags:
