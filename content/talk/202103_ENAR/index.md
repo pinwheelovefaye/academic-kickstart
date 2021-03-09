@@ -1,5 +1,5 @@
 ---
-title: Levels and Trends in the Sex Ratio at Birth by Vietnam Region Between 1980 and 2018 with Probabilistic Projections to 2050: A Bayesian Modeling Approach
+title: Levels and Trends in the Sex Ratio at Birth by Vietnam Region Between 1980 and 2018 with Probabilistic Projections to 2050, a Bayesian Modeling Approach
 event: ENAR Spring Meeting
 event_url: https://www.enar.org/meetings/spring2021/
 
