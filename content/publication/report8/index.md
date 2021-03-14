@@ -31,7 +31,7 @@ tags:
 - web appendix
 featured: false
 
-url_pdf: files/report8_2021_ChaoF_Appendix_Vietnam-Sex-Ratio-at-Birth-Subnational-Estimation-and-Projection.pdf.pdf
+url_pdf: files/report8_2021_ChaoF_Appendix_Vietnam-Sex-Ratio-at-Birth-Subnational-Estimation-and-Projection.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
