@@ -34,8 +34,8 @@ image:
   focal_point: Right
 
 links:
-- name: Register
-  url: https://urldefense.com/v3/__https://forms.office.com/Pages/ResponsePage.aspx?id=2zWeD09UYE-9zF6kFubccCbMXLpK9rROj_qowHBOnQ9UQlc5RUdSMklMUlkxUzFBTjVOTjdZTUw0VS4u__;!!Nmw4Hv0!nqixNYRKoPW7ATkXTouCWvnzo2j9tbAxNEhkItFiY5_DbGqU13ymnvDvWAPqAR9G8GLDZ2Wf$
+- name: Event page
+  url: https://www.unescap.org/events/2021/asia-pacific-stats-cafe-series-indirect-demographic-methods-measuring-completeness-and
 url_code: ""
 url_pdf: ""
 url_slides: ""
