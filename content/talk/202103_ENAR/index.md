@@ -34,8 +34,8 @@ image:
   focal_point: Right
 
 # links:
-# - name: Register
-#   url: 
+ - name: Slides
+   url: https://www.fengqingchao.com/publication/slides31/
 url_code: ""
 url_pdf: ""
 url_slides: ""
