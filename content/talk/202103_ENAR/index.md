@@ -33,7 +33,7 @@ image:
   caption: 'Image credit: [**ENAR**](https://www.enar.org/)'
   focal_point: Right
 
-# links:
+ links:
  - name: Slides
    url: https://www.fengqingchao.com/publication/slides31/
 url_code: ""
