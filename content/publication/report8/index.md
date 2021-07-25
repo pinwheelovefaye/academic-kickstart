@@ -64,4 +64,4 @@ projects:
 
 ---
 
-This web appendix is for [**Sex ratio at birth in Vietnam among six subnational regions during 1990-2050, estimation and probabilistic projection using a Bayesian hierarchical time series model**](https://www.fengqingchao.com/publication/preprint5/).
+This web appendix is for [**Sex ratio at birth in Vietnam among six subnational regions during 1980–2050, estimation and probabilistic projection using a Bayesian hierarchical time series model with 2.9 million birth records**](https://www.fengqingchao.com/publication/journal-article9/).
