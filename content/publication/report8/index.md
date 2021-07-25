@@ -1,10 +1,10 @@
 ---
-title: "S1 Appendix Sex ratio at birth in Vietnam among six subnational regions during 1990-2050, estimation and probabilistic projection using a Bayesian hierarchical time series model"
+title: "S1 Appendix Sex ratio at birth in Vietnam among six subnational regions during 1980–2050, estimation and probabilistic projection using a Bayesian hierarchical time series model with 2.9 million birth records"
 authors:
 - admin
 - Christophe Z. Guilmoto
 - Hernando Ombao
-date: "2021-03-03T00:00:00Z"
+date: "2021-06-15T00:00:00Z"
 doi: "10.6084/m9.figshare.14152979"
 
 # Schedule page publish date (NOT publication's date).
