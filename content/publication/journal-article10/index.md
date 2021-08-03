@@ -1,5 +1,5 @@
 ---
-title: "Global estimation and scenario-based projections of sex ratio at birth and missing female births using a Bayesian hierarchical time series mixture model"
+title: "Projecting sex imbalances at birth at global, regional and national levels from 2021 to 2100: scenario-based Bayesian probabilistic projections of the sex ratio at birth and missing female births based on 3.26 billion birth records"
 authors:
 - admin
 - Patrick Gerland
