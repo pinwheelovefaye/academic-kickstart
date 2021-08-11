@@ -90,6 +90,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [WND](https://www.wnd.com/2021/08/study-sex-selective-abortion-killing-girls-destroying-gender-balance/). Aug 7, 2021. ``Study: Sex-selective abortion killing girls, destroying gender balance''
 
+[ZAP](https://zap.aeiou.pt/doze-paises-perder-mulheres-10-anos-423786). Aug 11, 2021. ``Doze países podem “perder” quase 5 milhões de mulheres na próxima década''
+
 ## **2020**
 [2051.FR](https://www.2051.fr/actualite/actualite/des-millions-de-naissances-feminines-disparues-prevues-en-inde-au-cours-de-la-prochaine-decennie/). Aug 19, 2020. ``Des millions de naissances féminines disparues prévues en Inde au cours de la prochaine décennie''
 
