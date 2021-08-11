@@ -30,6 +30,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [Der Spiegel](https://www.spiegel.de/wissenschaft/praenatale-geschlechtsselektion-fuenf-millionen-toechter-die-nie-zur-welt-kommen-a-645f77ae-2b94-4cdb-b972-abedd4014e7d#ref=rss). Aug 3, 2021. ``Fünf Millionen Töchter, die nie zur Welt kommen''
 
+[detektor.fm](https://detektor.fm/gesellschaft/zurueck-zum-thema-praenatale-geschlechtsselektion). Aug 10, 2021. ``Welche Folgen hat pränatale Geschlechtsselektion?''
+
 [Eastern Eye](https://www.easterneye.biz/skewed-sex-ratio-may-lead-to-5-million-girls-missing-in-next-decade-study/). Aug 4, 2021. ``Skewed sex ratio may lead to 5 million girls missing in next decade: study''
 
 [France 24](https://www.france24.com/en/live-news/20210802-nearly-5-mn-fewer-girls-to-be-born-worldwide-over-next-10-years-study). Aug 3, 2021. ``Nearly 5 mn fewer girls to be born worldwide over next 10 years: study''
