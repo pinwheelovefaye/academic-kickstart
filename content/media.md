@@ -18,6 +18,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 ## **2021**
 [1News.az](https://1news.az/news/20210803022259507-Issledovanie-Obshcee-kolichestvo-nerozhdennykh-devochek-v-Azerbaidzhane-sostavit-okolo-200-tysyach). Aug 3, 2021. ``Исследование: Общее количество нерожденных девочек в Азербайджане составит около 200 тысяч''
 
+[aufeminin](https://www.aufeminin.com/sante-femme/avortement-sexo-selectif-jusqu-a-5-millions-de-femmes-perdues-s4027488.html). Aug 11, 2021. ``Avortement sexo-sélectif : d'ici 2030, 12 pays 'perdront' jusqu'à 5 millions de femmes''
+
 [BioEdge](https://www.bioedge.org/bioethics/another-4.7-million-girls-will-go-missing-by-2030/13858). Aug 7, 2021. ``Another 4.7 million girls will go missing by 2030''
 
 [Breibart](https://www.breitbart.com/health/2021/08/04/report-abortions-to-result-in-5-million-fewer-girls-born-in-coming-decade/). Aug 4, 2021. ``Report: Abortions to Result in 5 Million Fewer Girls Born in Coming Decade''
@@ -32,6 +34,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [detektor.fm](https://detektor.fm/gesellschaft/zurueck-zum-thema-praenatale-geschlechtsselektion). Aug 10, 2021. ``Welche Folgen hat pränatale Geschlechtsselektion?''
 
+[DIÁRIO DA AMAZÔNIA](https://www.diariodaamazonia.com.br/doze-paises-podem-perder-quase-5-milhoes-de-mulheres-na-proxima-decada/). Aug 11, 2021. ``Doze países podem 'perder' quase 5 milhões de mulheres na próxima década''
+
 [Eastern Eye](https://www.easterneye.biz/skewed-sex-ratio-may-lead-to-5-million-girls-missing-in-next-decade-study/). Aug 4, 2021. ``Skewed sex ratio may lead to 5 million girls missing in next decade: study''
 
 [France 24](https://www.france24.com/en/live-news/20210802-nearly-5-mn-fewer-girls-to-be-born-worldwide-over-next-10-years-study). Aug 3, 2021. ``Nearly 5 mn fewer girls to be born worldwide over next 10 years: study''
@@ -39,6 +43,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 [Futurism](https://futurism.com/neoscope/too-many-men-born). Aug 3, 2021. ``SCIENTISTS WARN THAT WAY TOO MANY MEN ARE BEING BORN''
 
 [Gazeta Do Povo](https://www.gazetadopovo.com.br/mundo/abortos-seletivos-podem-levar-o-mundo-a-ter-quase-5-milhoes-de-meninas-a-menos-em-10-anos/). Aug 3, 2021. ``Abortos seletivos podem levar o mundo a ter quase 5 milhões de meninas a menos em 10 anos''
+
+[Green Me](https://www.greenme.it/vivere/costume-e-societa/selezione-del-sesso-popolazione-maschi/). Aug 11, 2021. ``Fra qualche decennio gli uomini supereranno le donne per numero (e questo è un problema)''
 
 [Insider](https://www.gazetadopovo.com.br/mundo/abortos-seletivos-podem-levar-o-mundo-a-ter-quase-5-milhoes-de-meninas-a-menos-em-10-anos/). Aug 3, 2021. ``The world will see a shortfall of 5 million girls over the next 10 years due to sex selective practices, study says''
 
