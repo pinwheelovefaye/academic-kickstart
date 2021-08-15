@@ -30,6 +30,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [Business Insider Netherlands](https://www.businessinsider.nl/the-world-will-see-a-shortfall-of-5-million-girls-over-the-next-10-years-due-to-sex-selective-practices-study-says/). Aug 3, 2021. ``The world will see a shortfall of 5 million girls over the next 10 years due to sex selective practices, study says''
 
+[Daily Greek Show](https://dailygeekshow.com/pays-perte-millions-femmes/). Aug 14, 2021. ``Ces douze pays pourraient perdre jusqu’à 5 millions de femmes dans les dix ans à venir''
+
 [Der Spiegel](https://www.spiegel.de/wissenschaft/praenatale-geschlechtsselektion-fuenf-millionen-toechter-die-nie-zur-welt-kommen-a-645f77ae-2b94-4cdb-b972-abedd4014e7d#ref=rss). Aug 3, 2021. ``Fünf Millionen Töchter, die nie zur Welt kommen''
 
 [detektor.fm](https://detektor.fm/gesellschaft/zurueck-zum-thema-praenatale-geschlechtsselektion). Aug 10, 2021. ``Welche Folgen hat pränatale Geschlechtsselektion?''
@@ -50,7 +52,7 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [Jordan Times](http://www.jordantimes.com/news/features/nearly-5-million-fewer-girls-be-born-worldwide-over-next-10-years). Aug 4, 2021. ``Nearly 5 million fewer girls to be born worldwide over next 10 year''
 
-[Medical News Today](https://www.medicalnewstoday.com/articles/preference-for-sons-could-lead-to-4-7-m-missing-female-births). Aug, 2021. ``Preference for sons could lead to 4.7 m 'missing' female births''
+[Medical News Today](https://www.medicalnewstoday.com/articles/preference-for-sons-could-lead-to-4-7-m-missing-female-births). Aug 4, 2021. ``Preference for sons could lead to 4.7 m 'missing' female births''
 
 [Medical Xpress](https://medicalxpress.com/news/2021-08-countries-skewed-sex-ratio-birth.html). Aug 2, 2021. ``Countries with skewed sex ratio at birth set to 'lose' another 4.7m girls by 2030''
 
@@ -61,6 +63,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 [Mirage News](https://www.miragenews.com/countries-with-skewed-sex-ratio-at-birth-set-to-606969/). Aug 3, 2021. ``Countries with skewed sex ratio at birth set to ‘lose’ another 4.7m girls by 2030''
 
 [MSN](https://www.msn.com/en-sg/lifestyle/lifestyle-buzz/the-world-will-see-a-shortfall-of-5-million-girls-over-the-next-10-years-due-to-sex-selective-practices-study-says/ar-AAMRVNg). Aug 3, 2021. ``The world will see a shortfall of 5 million girls over the next 10 years due to sex selective practices, study says''
+
+[MSN](http://ct.moreover.com/?a=45602605055&p=1pl&v=1&x=O_JZI9bS-MSO1uG2iXmnjg). Aug 12, 2021. ``Lányt nevelni olyan, mint a szomszéd kertjét öntözni''
 
 [Naked Science](https://naked-science.ru/article/anthropology/iskusstvennyj-vybor-pola-pri). Aug 5, 2021. ``Искусственный выбор пола при оплодотворении посчитали угрозой гендерному разнообразию''
 
@@ -85,6 +89,10 @@ _Media coverage are listed in alphabetical order of news outlets._
 [Sputnik News](https://fr.sputniknews.com/societe/202108071045973948-ne-pas-vouloir-de-bebes-de-sexe-feminin-menacerait-lequilibre-de-la-population-mondiale/). Aug 7, 2021. ``Ne pas vouloir de bébés de sexe féminin menacerait l’équilibre de la population mondiale''
 
 [Science Alert](https://www.sciencealert.com/almost-5-million-women-will-go-missing-in-the-next-decade-scientists-warn). Aug 8, 2021. ``12 Countries Could 'Lose' Almost 5 Million Women in The Next Decade, Warn Scientists''
+
+[SciencePost](https://sciencepost.fr/perte-naissances-feminines-mondiale/). Aug 13, 2021. ``Une étude évalue la perte de naissances féminines dans le monde entre 2021 et 2100''
+
+[Scientias](https://www.scientias.nl/miljoenen-meisjes-dreigen-de-komende-jaren-niet-geboren-te-worden/). Aug 14, 2021. ``Miljoenen meisjes dreigen de komende jaren niet geboren te worden''
 
 [Tek Deeps](https://tekdeeps.com/12-countries-could-lose-up-to-5-million-women-in-the-next-decade/). Aug 9, 2021. ``12 countries could 'lose' up to 5 million women in the next decade''
 
