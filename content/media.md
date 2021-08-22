@@ -96,6 +96,8 @@ _Media coverage are listed in alphabetical order of news outlets._
 
 [Tek Deeps](https://tekdeeps.com/12-countries-could-lose-up-to-5-million-women-in-the-next-decade/). Aug 9, 2021. ``12 countries could 'lose' up to 5 million women in the next decade''
 
+[The Journal (Ireland)](https://www.thejournal.ie/abortion-factcheck-5521191-Aug2021/). Aug 18, 2021. ``FactCheck: Does Irish law allow for 'gender selection abortions'?''
+
 [The Manomet Current](https://tekdeeps.com/12-countries-could-lose-up-to-5-million-women-in-the-next-decade/). Aug 9, 2021. ``12 countries could 'lose' up to 5 million women in the next decade''
 
 [The Spectator](https://www.spectator.co.uk/article/the-gendercide-crisis-can-no-longer-be-ignored). Aug 4, 2021. ``Why are politicians reluctant to condemn sex-selective abortion?''
