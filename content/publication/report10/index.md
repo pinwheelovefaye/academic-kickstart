@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report9_2022_ChaoF_Appendix_Nepal-Sex-Ratio-at-Birth-Bayesian-Subnational-Estimation-and-Projection.pdf
+url_pdf: files/report10_2022_ChaoF_Appendix_Nepal-Sex-Ratio-at-Birth-Bayesian-Subnational-Estimation-and-Projection.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
