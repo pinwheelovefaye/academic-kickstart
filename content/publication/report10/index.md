@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report9_2021_ChaoF_Appendix_Pakistan-Sex-Ratio-at-Birth-by-Province-1980-to-2050.pdf
+url_pdf: files/report9_2022_ChaoF_Appendix_Nepal-Sex-Ratio-at-Birth-Bayesian-Subnational-Estimation-and-Projection.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
