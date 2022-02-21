@@ -1,11 +1,11 @@
 ---
-title: "Technical Appendix Levels and trends in the sex ratio at birth in seven provinces of Nepal between 1980 and 2016 with probabilistic projections to 2050: a Bayesian modeling approach"
+title: "Technical Appendix for Estimation and probabilistic projection of levels and trends in the sex ratio at birth in seven provinces of Nepal from 1980 to 2050: a Bayesian modeling approach"
 authors:
 - admin
 - Samir K.C.
 - Hernando Ombao
-date: "2020-07-01T00:00:00Z"
-doi: "10.6084/m9.figshare.12593651"
+date: "2022-01-27T00:00:00Z"
+doi: "10.6084/m9.figshare.19077155"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-27T00:00:00Z"
@@ -34,13 +34,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report5_2020_ChaoF_Appendix_Nepal-Sex-Ratio-at-Birth-by-Province-1980-to-2050.pdf
+url_pdf: files/report9_2021_ChaoF_Appendix_Pakistan-Sex-Ratio-at-Birth-by-Province-1980-to-2050.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://doi.org/10.6084/m9.figshare.12593651
+url_source: https://doi.org/10.6084/m9.figshare.19077155
 url_video: ''
 
 # Featured image
@@ -67,4 +67,4 @@ projects:
 
 ---
 
-This web appendix is for the preprint [Levels and trends in the sex ratio at birth in seven provinces of Nepal between 1980 and 2016 with probabilistic projections to 2050: a Bayesian modeling approach](https://www.fengqingchao.com/publication/preprint3/).
+This web appendix is for [Estimation and probabilistic projection of levels and trends in the sex ratio at birth in seven provinces of Nepal from 1980 to 2050: a Bayesian modeling approach](https://www.fengqingchao.com/publication/journal-article12/).
