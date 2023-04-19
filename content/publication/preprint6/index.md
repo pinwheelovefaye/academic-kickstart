@@ -61,5 +61,6 @@ projects:
 ---
 
 This is a preprint that is under peer-reviewed currently.
+
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.2139/ssrn.4415686" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
