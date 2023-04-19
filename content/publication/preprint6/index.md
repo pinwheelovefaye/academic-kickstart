@@ -1,5 +1,5 @@
 ---
-title: "Sex differences in survival chances among children, adolescents, and youth ages 0--24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
+title: "Sex differences in survival chances among children, adolescents, and youth ages 0–24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
 authors:
 - admin
 - Bruno Masquelier
