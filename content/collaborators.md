@@ -23,10 +23,11 @@ _Collaborators are listed in alphabetical order of last names._
 | [Patrick Gerland](http://www.researchgate.net/profile/Patrick_Gerland) | UN | Population Division, Department of Economic and Social Affairs |
 | [Christophe Z. Guilmoto](http://www.demographie.net/) | Université de Paris | Centre Population et Développement (CEPED); Institut de recherche pour le développement (IRD) |
 | Lucia Hug | UNICEF | Division of Data, Research, and Policy |
-| [Samir KC](http://www.wittgensteincentre.org/en/staff/member/kc.htm) | Shanghai University; International Institute for Applied Systems Analysis (IIASA) | Asian Demographic Research Institute (ADRI); Wittgenstein Centre for Demography |
+| [Samir KC](http://www.wittgensteincentre.org/en/staff/member/kc.htm) | International Institute for Applied Systems Analysis (IIASA) | Wittgenstein Centre for Demography |
 | [Bruno Masquelier](https://uclouvain.be/fr/repertoires/bruno.masquelier) | Université catholique de Louvain | Center for Demographic Research |
 | [Hernando Ombao](https://cemse.kaust.edu.sa/biostats/people/person/hernando-ombao) | KAUST | Statistics Program |
 | [Jon Pedersen](https://fafo.no/index.php/ansatte?controller=renderlayout&task=show&item_id=4722&layout=utskrift&tmpl=component) | FAFO | |
+| [Håvard Reu](https://cemse.kaust.edu.sa/bayescomp/people/person/haavard-rue) | KAUST | Statistics Program |
 | [Muhammad Asif Wazir](https://scholar.google.com/citations?user=4o96UvEAAAAJ&hl=en) | UNFPA Pakistan |  |
 | [Danzhen You](https://scholar.google.com/citations?user=9-z_XD4AAAAJ&hl=en) | UNICEF | Division of Data, Research, and Policy |
 
