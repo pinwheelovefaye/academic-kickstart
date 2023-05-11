@@ -16,7 +16,7 @@ baseurl = "https://www.fengqingchao.com/"
 copyright = "&copy; Fengqing Chao 2019-{year}"
 
 ## Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-F45CVVRQ6Q"
+#googleAnalytics = "G-F45CVVRQ6Q"
 #
 ## Enable comments by entering your Disqus shortname
 #disqusShortname = ""
