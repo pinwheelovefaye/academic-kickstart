@@ -24,6 +24,7 @@ publication_short: ""
 
 tags:
 - child mortality
+- under-5 mortality rate
 - gender discrimination
 - global health
 - Bayesian hierarchical model
