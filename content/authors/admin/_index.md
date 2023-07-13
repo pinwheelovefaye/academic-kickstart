@@ -14,8 +14,8 @@ role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: KAUST
-  url: "https://www.kaust.edu.sa/en"
+- name: Statistics, KAUST
+  url: "https://cemse.kaust.edu.sa/stat"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical demography, global health, Bayesian modeling, and time series analysis.
@@ -90,7 +90,7 @@ user_groups:
 
 I am a Research Scientist in the [Biostatistics Group at KAUST](https://cemse.kaust.edu.sa/biostats). I am a statistician with research interest in demography and global health.
 
-I have been collaborating with UNICEF, specifically the [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/), since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the [UN Population Division](https://www.un.org/development/desa/pd/) since 2013 on estimating and projection sex ratio at birth using Bayesian approaches.
+I have been collaborating with UNICEF, specifically the [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/), since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the [UN Population Division](https://www.un.org/development/desa/pd/) since 2013 on estimating and projection sex ratio at birth, age-specific fertility rates, and sex-specific adult mortality rates using Bayesian approaches.
 
 I have published in journals such as *Lancet Global Health*, *Proceedings of the National Academy of Sciences*, and *Annals of Applied Statistics*.
 
