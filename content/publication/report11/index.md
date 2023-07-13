@@ -7,7 +7,7 @@ authors:
 - Lucia Hug
 - Yang Liu
 - David Sharrow
-- Ha&#778 vard Rue
+- Håvard Rue
 - Hernando Ombao
 - Leontine Alkema
 date: "2023-07-11T00:00:00Z"
