@@ -1,5 +1,5 @@
 ---
-title: "Sex differences in mortality among children, adolescents, and young people aged 0--24 years: a systematic assessment of national, regional, and global trends from 1990 to 2021"
+title: "Sex differences in mortality among children, adolescents, and young people aged 0-24 years: a systematic assessment of national, regional, and global trends from 1990 to 2021"
 authors:
 - admin
 - Bruno Masquelier

@@ -1,5 +1,5 @@
 ---
-title: "Web Appendix for Sex differences in mortality among children, adolescents, and youth aged 0--24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
+title: "Web Appendix for Sex differences in mortality among children, adolescents, and youth aged 0-24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
 authors:
 - admin
 - Bruno Masquelier
